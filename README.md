@@ -10,4 +10,4 @@ Mobile version of Google Maps, despite its popularity in vehicle navigatioin and
 To visualize the GPX tracks/routes on a desktop, I use GPXSee (www.gpxsee.org). KML version of the trails is included for visualization on Google Earth.
 Both GPX tracks and routes are hosted because some offline hiking apps prefer GPX track and others prefer GPX route.
 <br><br>
-Due to the length and difficulties of the full trails, hiking trails are divided into Sections (e.g. for day hikes). Consult Wikipedia for the starting points and how to get there. Beware and be prepared, even in densely populated Hong Kong SAR, some segments of the trails are remote i.e. no public transportation, no food or water and no mobile phone coverage.
+Due to the length and difficulties of the full trails, hiking trails are divided into Sections (e.g. for day hikes). Consult Wikipedia for the starting points and how to get there. Beware and be prepared, even in densely populated Hong Kong SAR, some segments of the trails are remote i.e. no public transportation, no shelters, no food or water and no mobile phone coverage.
