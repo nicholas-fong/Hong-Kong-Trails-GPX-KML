@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.27439" lon="114.149029">
+    <ele>412</ele>
+    <name>H001</name>
+  </wpt>
+  <wpt lat="22.27721" lon="114.148133">
+    <ele>443</ele>
+    <name>H002</name>
+  </wpt>
+  <wpt lat="22.277758" lon="114.144655">
+    <ele>434</ele>
+    <name>H003</name>
+  </wpt>
+  <wpt lat="22.276054" lon="114.141893">
+    <ele>401</ele>
+    <name>H004</name>
+  </wpt>
+  <wpt lat="22.27438" lon="114.138611">
+    <ele>379</ele>
+    <name>H005</name>
+  </wpt>
+  <wpt lat="22.2733" lon="114.13668">
+    <ele>367</ele>
+    <name>H006</name>
+  </wpt>
+  <wpt lat="22.273431" lon="114.132947">
+    <ele>310</ele>
+    <name>H007</name>
+  </wpt>
+  <wpt lat="22.27007" lon="114.13361">
+    <ele>252</ele>
+    <name>H008</name>
+  </wpt>
+  <wpt lat="22.267254" lon="114.134933">
+    <ele>231</ele>
+    <name>H009</name>
+  </wpt>
+  <wpt lat="22.267244" lon="114.137654">
+    <ele>215</ele>
+    <name>H010</name>
+  </wpt>
+  <wpt lat="22.268001" lon="114.139935">
+    <ele>227</ele>
+    <name>H011</name>
+  </wpt>
+  <wpt lat="22.268584" lon="114.142955">
+    <ele>245</ele>
+    <name>H012</name>
+  </wpt>
+  <wpt lat="22.268898" lon="114.146301">
+    <ele>271</ele>
+    <name>H013</name>
+  </wpt>
+  <wpt lat="22.26736" lon="114.14402">
+    <ele>242</ele>
+    <name>H014</name>
+  </wpt>
+  <wpt lat="22.265341" lon="114.141516">
+    <ele>227</ele>
+    <name>H015</name>
+  </wpt>
+  <wpt lat="22.26373" lon="114.141734">
+    <ele>267</ele>
+    <name>H016</name>
+  </wpt>
+  <wpt lat="22.26077" lon="114.14076">
+    <ele>231</ele>
+    <name>H017</name>
+  </wpt>
+  <wpt lat="22.25991" lon="114.14286">
+    <ele>242</ele>
+    <name>H018</name>
+  </wpt>
+  <wpt lat="22.2594" lon="114.14518">
+    <ele>276</ele>
+    <name>H019</name>
+  </wpt>
+  <wpt lat="22.256774" lon="114.147158">
+    <ele>254</ele>
+    <name>H020</name>
+  </wpt>
+  <wpt lat="22.25437" lon="114.14583">
+    <ele>243</ele>
+    <name>H021</name>
+  </wpt>
+  <wpt lat="22.252265" lon="114.144489">
+    <ele>183</ele>
+    <name>H022</name>
+  </wpt>
+  <wpt lat="22.25214" lon="114.14686">
+    <ele>133</ele>
+    <name>H023</name>
+  </wpt>
+  <wpt lat="22.2536" lon="114.15016">
+    <ele>113</ele>
+    <name>H024</name>
+  </wpt>
+  <wpt lat="22.25566" lon="114.15323">
+    <ele>115</ele>
+    <name>H025</name>
+  </wpt>
+  <wpt lat="22.258651" lon="114.155272">
+    <ele>166</ele>
+    <name>H026</name>
+  </wpt>
+  <wpt lat="22.260634" lon="114.154398">
+    <ele>212</ele>
+    <name>H027</name>
+  </wpt>
+  <wpt lat="22.260555" lon="114.15679">
+    <ele>205</ele>
+    <name>H028</name>
+  </wpt>
+  <wpt lat="22.25882" lon="114.15709">
+    <ele>191</ele>
+    <name>H029</name>
+  </wpt>
+  <wpt lat="22.25586" lon="114.1551">
+    <ele>179</ele>
+    <name>H030</name>
+  </wpt>
+  <wpt lat="22.253941" lon="114.155283">
+    <ele>177</ele>
+    <name>H031</name>
+  </wpt>
+  <wpt lat="22.25471" lon="114.156709">
+    <ele>175</ele>
+    <name>H032</name>
+  </wpt>
+  <wpt lat="22.257999" lon="114.159697">
+    <ele>181</ele>
+    <name>H033</name>
+  </wpt>
+  <wpt lat="22.262739" lon="114.159555">
+    <ele>214</ele>
+    <name>H034</name>
+  </wpt>
+  <wpt lat="22.262277" lon="114.161667">
+    <ele>198</ele>
+    <name>H035</name>
+  </wpt>
+  <wpt lat="22.260551" lon="114.16219">
+    <ele>185</ele>
+    <name>H036</name>
+  </wpt>
+  <wpt lat="22.26337" lon="114.16527">
+    <ele>188</ele>
+    <name>H037</name>
+  </wpt>
+  <wpt lat="22.264799" lon="114.167115">
+    <ele>167</ele>
+    <name>H038</name>
+  </wpt>
+  <wpt lat="22.264939" lon="114.168266">
+    <ele>185</ele>
+    <name>H039</name>
+  </wpt>
+  <wpt lat="22.261597" lon="114.167289">
+    <ele>168</ele>
+    <name>H040</name>
+  </wpt>
+  <wpt lat="22.258517" lon="114.168053">
+    <ele>149</ele>
+    <name>H041</name>
+  </wpt>
+  <wpt lat="22.25661" lon="114.16971">
+    <ele>131</ele>
+    <name>H042</name>
+  </wpt>
+  <wpt lat="22.25429" lon="114.17254">
+    <ele>127</ele>
+    <name>H043</name>
+  </wpt>
+  <wpt lat="22.25704" lon="114.17177">
+    <ele>172</ele>
+    <name>H044</name>
+  </wpt>
+  <wpt lat="22.25794" lon="114.17404">
+    <ele>263</ele>
+    <name>H045</name>
+  </wpt>
+  <wpt lat="22.259403" lon="114.176764">
+    <ele>273</ele>
+    <name>H046</name>
+  </wpt>
+  <wpt lat="22.25983" lon="114.18027">
+    <ele>283</ele>
+    <name>H047</name>
+  </wpt>
+  <wpt lat="22.25856" lon="114.1831">
+    <ele>299</ele>
+    <name>H048</name>
+  </wpt>
+  <wpt lat="22.257116" lon="114.186857">
+    <ele>269</ele>
+    <name>H049</name>
+  </wpt>
+  <wpt lat="22.258383" lon="114.191146">
+    <ele>219</ele>
+    <name>H050</name>
+  </wpt>
+  <wpt lat="22.257435" lon="114.195408">
+    <ele>219</ele>
+    <name>H051</name>
+  </wpt>
+  <wpt lat="22.258195" lon="114.198015">
+    <ele>286</ele>
+    <name>H052</name>
+  </wpt>
+  <wpt lat="22.260531" lon="114.197814">
+    <ele>310</ele>
+    <name>H053;W009</name>
+  </wpt>
+  <wpt lat="22.264967" lon="114.197675">
+    <ele>398</ele>
+    <name>H054;W010</name>
+  </wpt>
+  <wpt lat="22.2664" lon="114.199878">
+    <ele>386</ele>
+    <name>H055;W011</name>
+  </wpt>
+  <wpt lat="22.26752" lon="114.203102">
+    <ele>296</ele>
+    <name>H056;W012</name>
+  </wpt>
+  <wpt lat="22.269175" lon="114.207432">
+    <ele>392</ele>
+    <name>H057;W013</name>
+  </wpt>
+  <wpt lat="22.268349" lon="114.210273">
+    <ele>409</ele>
+    <name>H058</name>
+  </wpt>
+  <wpt lat="22.266996" lon="114.212998">
+    <ele>334</ele>
+    <name>H059</name>
+  </wpt>
+  <wpt lat="22.265857" lon="114.214092">
+    <ele>288</ele>
+    <name>H060</name>
+  </wpt>
+  <wpt lat="22.263099" lon="114.214182">
+    <ele>240</ele>
+    <name>H061</name>
+  </wpt>
+  <wpt lat="22.260445" lon="114.213517">
+    <ele>198</ele>
+    <name>H062</name>
+  </wpt>
+  <wpt lat="22.258594" lon="114.21191">
+    <ele>158</ele>
+    <name>H063</name>
+  </wpt>
+  <wpt lat="22.256358" lon="114.211849">
+    <ele>150</ele>
+    <name>H064</name>
+  </wpt>
+  <wpt lat="22.253346" lon="114.214349">
+    <ele>119</ele>
+    <name>H065</name>
+  </wpt>
+  <wpt lat="22.251625" lon="114.215534">
+    <ele>98</ele>
+    <name>H066</name>
+  </wpt>
+  <wpt lat="22.251708" lon="114.218289">
+    <ele>80</ele>
+    <name>H067</name>
+  </wpt>
+  <wpt lat="22.248052" lon="114.221316">
+    <ele>60</ele>
+    <name>H068</name>
+  </wpt>
+  <wpt lat="22.247995" lon="114.223766">
+    <ele>39</ele>
+    <name>H069</name>
+  </wpt>
+  <wpt lat="22.250684" lon="114.226174">
+    <ele>50</ele>
+    <name>H070</name>
+  </wpt>
+  <wpt lat="22.25146" lon="114.227667">
+    <ele>50</ele>
+    <name>H071</name>
+  </wpt>
+  <wpt lat="22.249281" lon="114.226569">
+    <ele>47</ele>
+    <name>H072</name>
+  </wpt>
+  <wpt lat="22.246413" lon="114.226363">
+    <ele>49</ele>
+    <name>H073</name>
+  </wpt>
+  <wpt lat="22.242686" lon="114.228573">
+    <ele>55</ele>
+    <name>H074</name>
+  </wpt>
+  <wpt lat="22.24138" lon="114.232034">
+    <ele>39</ele>
+    <name>H075</name>
+  </wpt>
+  <wpt lat="22.243549" lon="114.232134">
+    <ele>47</ele>
+    <name>H076</name>
+  </wpt>
+  <wpt lat="22.246907" lon="114.231024">
+    <ele>61</ele>
+    <name>H077</name>
+  </wpt>
+  <wpt lat="22.244276" lon="114.233097">
+    <ele>45</ele>
+    <name>H078</name>
+  </wpt>
+  <wpt lat="22.242036" lon="114.236711">
+    <ele>56</ele>
+    <name>H079</name>
+  </wpt>
+  <wpt lat="22.239202" lon="114.236613">
+    <ele>59</ele>
+    <name>H080</name>
+  </wpt>
+  <wpt lat="22.236178" lon="114.236067">
+    <ele>59</ele>
+    <name>H081</name>
+  </wpt>
+  <wpt lat="22.233024" lon="114.237154">
+    <ele>54</ele>
+    <name>H082</name>
+  </wpt>
+  <wpt lat="22.22856" lon="114.236981">
+    <ele>42</ele>
+    <name>H083</name>
+  </wpt>
+  <wpt lat="22.227112" lon="114.238696">
+    <ele>90</ele>
+    <name>H084</name>
+  </wpt>
+  <wpt lat="22.229332" lon="114.241115">
+    <ele>170</ele>
+    <name>H085</name>
+  </wpt>
+  <wpt lat="22.230572" lon="114.243928">
+    <ele>215</ele>
+    <name>H086</name>
+  </wpt>
+  <wpt lat="22.234618" lon="114.24374">
+    <ele>258</ele>
+    <name>H087</name>
+  </wpt>
+  <wpt lat="22.237848" lon="114.242656">
+    <ele>244</ele>
+    <name>H088</name>
+  </wpt>
+  <wpt lat="22.241568" lon="114.241391">
+    <ele>252</ele>
+    <name>H089</name>
+  </wpt>
+  <wpt lat="22.243868" lon="114.23891">
+    <ele>212</ele>
+    <name>H090</name>
+  </wpt>
+  <wpt lat="22.24662" lon="114.236347">
+    <ele>211</ele>
+    <name>H091</name>
+  </wpt>
+  <wpt lat="22.248178" lon="114.23491">
+    <ele>213</ele>
+    <name>H092</name>
+  </wpt>
+  <wpt lat="22.251459" lon="114.231543">
+    <ele>213</ele>
+    <name>H093</name>
+  </wpt>
+  <wpt lat="22.255018" lon="114.232941">
+    <ele>197</ele>
+    <name>H094</name>
+  </wpt>
+  <wpt lat="22.257259" lon="114.236606">
+    <ele>194</ele>
+    <name>H095</name>
+  </wpt>
+  <wpt lat="22.256256" lon="114.239691">
+    <ele>176</ele>
+    <name>H096</name>
+  </wpt>
+  <wpt lat="22.254965" lon="114.241756">
+    <ele>159</ele>
+    <name>H097</name>
+  </wpt>
+  <wpt lat="22.251818" lon="114.245581">
+    <ele>103</ele>
+    <name>H098</name>
+  </wpt>
+  <wpt lat="22.249772" lon="114.245533">
+    <ele>66</ele>
+    <name>H099</name>
+  </wpt>
+  <wpt lat="22.24744" lon="114.245058">
+    <ele>17</ele>
+    <name>H100</name>
+  </wpt>
+</gpx>
