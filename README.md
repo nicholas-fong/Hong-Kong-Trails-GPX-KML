@@ -7,7 +7,7 @@ When using mobile phone hiking app to navigate, be sure to bring a high capacity
 <br><br>
 The Agriculture, Fisheries and Conservation Department (AFCD) "Enjoy Hiking" website (https://www.hiking.gov.hk) is an excellent starting point. 
 <br>
-Office of the Communications Authority (OFCA) has trail maps in PDF format. 
+Office of the Communications Authority (OFCA) has trail maps and mobile phone coverage in PDF format. 
 <br>
 https://www.ofca.gov.hk/en/consumer_focus/guide/safety/country_parks/coverage_survey/digital_map/index.html
 <br>
