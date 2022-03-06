@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <rte>
+    <name>鳳凰徑第1段 Lantau Trail Section 1</name>
+    <rtept lat="22.2651" lon="114.001822">
+      <ele>6</ele>
+    </rtept>
+    <rtept lat="22.265205" lon="114.001788">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265306" lon="114.001656">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265277" lon="114.001613">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265197" lon="114.001592">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265155" lon="114.00153">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265147" lon="114.001447">
+      <ele>6</ele>
+    </rtept>
+    <rtept lat="22.265215" lon="114.001326">
+      <ele>6</ele>
+    </rtept>
+    <rtept lat="22.265329" lon="114.001232">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265391" lon="114.001168">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265411" lon="114.001082">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265396" lon="114.000959">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265363" lon="114.000921">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265304" lon="114.000905">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265224" lon="114.000843">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265185" lon="114.000752">
+      <ele>7</ele>
+    </rtept>
+    <rtept lat="22.265167" lon="114.000664">
+      <ele>9</ele>
+    </rtept>
+    <rtept lat="22.265165" lon="114.000538">
+      <ele>9</ele>
+    </rtept>
+    <rtept lat="22.26504" lon="114.000383">
+      <ele>18</ele>
+    </rtept>
+    <rtept lat="22.264255" lon="114.000343">
+      <ele>23</ele>
+    </rtept>
+    <rtept lat="22.264159" lon="114.000302">
+      <ele>23</ele>
+    </rtept>
+    <rtept lat="22.264074" lon="114.000229">
+      <ele>23</ele>
+    </rtept>
+    <rtept lat="22.263999" lon="114.000097">
+      <ele>22</ele>
+    </rtept>
+    <rtept lat="22.263973" lon="113.999956">
+      <ele>22</ele>
+    </rtept>
+    <rtept lat="22.264037" lon="113.999505">
+      <ele>33</ele>
+    </rtept>
+    <rtept lat="22.26403" lon="113.999229">
+      <ele>40</ele>
+    </rtept>
+    <rtept lat="22.263971" lon="113.999006">
+      <ele>39</ele>
+    </rtept>
+    <rtept lat="22.263757" lon="113.998489">
+      <ele>47</ele>
+    </rtept>
+    <rtept lat="22.263609" lon="113.998324">
+      <ele>49</ele>
+    </rtept>
+    <rtept lat="22.263276" lon="113.998145">
+      <ele>61</ele>
+    </rtept>
+    <rtept lat="22.263186" lon="113.99807">
+      <ele>62</ele>
+    </rtept>
+    <rtept lat="22.263044" lon="113.99784">
+      <ele>63</ele>
+    </rtept>
+    <rtept lat="22.262942" lon="113.997398">
+      <ele>60</ele>
+    </rtept>
+    <rtept lat="22.262843" lon="113.997206">
+      <ele>51</ele>
+    </rtept>
+    <rtept lat="22.262771" lon="113.997108">
+      <ele>51</ele>
+    </rtept>
+    <rtept lat="22.261881" lon="113.996206">
+      <ele>50</ele>
+    </rtept>
+    <rtept lat="22.261647" lon="113.996086">
+      <ele>54</ele>
+    </rtept>
+    <rtept lat="22.261388" lon="113.996077">
+      <ele>47</ele>
+    </rtept>
+    <rtept lat="22.261266" lon="113.996109">
+      <ele>47</ele>
+    </rtept>
+    <rtept lat="22.260899" lon="113.996285">
+      <ele>44</ele>
+    </rtept>
+    <rtept lat="22.260315" lon="113.996684">
+      <ele>40</ele>
+    </rtept>
+    <rtept lat="22.260119" lon="113.99676">
+      <ele>43</ele>
+    </rtept>
+    <rtept lat="22.259908" lon="113.996746">
+      <ele>43</ele>
+    </rtept>
+    <rtept lat="22.25978" lon="113.996681">
+      <ele>45</ele>
+    </rtept>
+    <rtept lat="22.259693" lon="113.99659">
+      <ele>45</ele>
+    </rtept>
+    <rtept lat="22.259617" lon="113.996418">
+      <ele>41</ele>
+    </rtept>
+    <rtept lat="22.259605" lon="113.996203">
+      <ele>45</ele>
+    </rtept>
+    <rtept lat="22.259642" lon="113.996073">
+      <ele>45</ele>
+    </rtept>
+    <rtept lat="22.259896" lon="113.995577">
+      <ele>44</ele>
+    </rtept>
+    <rtept lat="22.259933" lon="113.995441">
+      <ele>44</ele>
+    </rtept>
+    <rtept lat="22.25993" lon="113.995275">
+      <ele>44</ele>
+    </rtept>
+    <rtept lat="22.25984" lon="113.995026">
+      <ele>49</ele>
+    </rtept>
+    <rtept lat="22.259423" lon="113.9946">
+      <ele>53</ele>
+    </rtept>
+    <rtept lat="22.259299" lon="113.994433">
+      <ele>60</ele>
+    </rtept>
+    <rtept lat="22.259231" lon="113.994296">
+      <ele>61</ele>
+    </rtept>
+    <rtept lat="22.259186" lon="113.994136">
+      <ele>61</ele>
+    </rtept>
+    <rtept lat="22.25917" lon="113.993978">
+      <ele>67</ele>
+    </rtept>
+    <rtept lat="22.259142" lon="113.993013">
+      <ele>71</ele>
+    </rtept>
+    <rtept lat="22.259045" lon="113.992641">
+      <ele>74</ele>
+    </rtept>
+    <rtept lat="22.258954" lon="113.992514">
+      <ele>78</ele>
+    </rtept>
+    <rtept lat="22.258825" lon="113.992399">
+      <ele>78</ele>
+    </rtept>
+    <rtept lat="22.258689" lon="113.99232">
+      <ele>84</ele>
+    </rtept>
+    <rtept lat="22.258001" lon="113.992036">
+      <ele>84</ele>
+    </rtept>
+    <rtept lat="22.257927" lon="113.991983">
+      <ele>84</ele>
+    </rtept>
+    <rtept lat="22.257686" lon="113.991708">
+      <ele>84</ele>
+    </rtept>
+    <rtept lat="22.257539" lon="113.991476">
+      <ele>93</ele>
+    </rtept>
+    <rtept lat="22.257408" lon="113.991149">
+      <ele>92</ele>
+    </rtept>
+    <rtept lat="22.257355" lon="113.99093">
+      <ele>98</ele>
+    </rtept>
+    <rtept lat="22.257255" lon="113.990267">
+      <ele>103</ele>
+    </rtept>
+    <rtept lat="22.257173" lon="113.990034">
+      <ele>106</ele>
+    </rtept>
+    <rtept lat="22.257064" lon="113.989908">
+      <ele>111</ele>
+    </rtept>
+    <rtept lat="22.256916" lon="113.989798">
+      <ele>113</ele>
+    </rtept>
+    <rtept lat="22.256292" lon="113.989448">
+      <ele>117</ele>
+    </rtept>
+    <rtept lat="22.2561" lon="113.989244">
+      <ele>123</ele>
+    </rtept>
+    <rtept lat="22.256009" lon="113.988969">
+      <ele>127</ele>
+    </rtept>
+    <rtept lat="22.256012" lon="113.988815">
+      <ele>127</ele>
+    </rtept>
+    <rtept lat="22.256162" lon="113.988371">
+      <ele>136</ele>
+    </rtept>
+  </rte>
+</gpx>
