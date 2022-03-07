@@ -1,9 +1,6 @@
-Hong Kong Trail - Trail Markers Geo Coordinate Repository
+Hong Kong Hiking Trails - Trail Markers Grid Reference database (incorrectly called Distance Posts)
 
-Most of the times, you don't need to use or worry about these trail markers.
-They are included in this repository as GPX waypoints for completeness.
-
-If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference notation (on the trail marker) is a truncated MGRS notation with 100 m resolution, and the grid zone designator `GZD` is omitted.
+If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference notation (on the trail marker) is a truncated MGRS notation with 100 m resolution, and the grid zone designator `GZD` is missing.
 
 That would make sense if all the (hiking) activities are within the same GZD, but they are not and here are the issues:
 
