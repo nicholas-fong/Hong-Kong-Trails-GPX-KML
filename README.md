@@ -6,7 +6,7 @@ Methodology used to generate these tracks: using www.overpass-turbo.eu query wiz
 Mobile phone version of Google Maps, despite its popularity in vehicle navigatioin and "offline mode", IMHO it is not designed to use with GPX/KML for hiking navigation, perhaps in the future. Examples of offline hiking apps are `Locus Map` (Andorid) and `Komoot` (Andorid and iPhone). If you use `Garmin` handheld GPS, simply import the GPX hiking trails to your handheld. Be sure to bring a fully charged battery power bank and charging cable for your phone.
 <br><br>
 To visualize the GPX tracks/routes on a desktop, I use `GPXSee` www.gpxsee.org. `KML` version of the trails is hosted in this repository for visualization on `Google Earth`.
-Both GPX tracks and routes are hosted because some offline hiking apps prefer `GPX track` and others prefer `GPX route`.
+Both GPX tracks and routes are available because some offline hiking apps prefer `GPX track` and others prefer `GPX route`.
 <br><br>
 Due to the length and difficulties of the full trails, hiking trails are divided into sections (e.g. for day hikes). Consult Wikipedia or https://www.hiking.gov.hk for various trail heads and how to get there. Beware and be prepared, even in densely populated Hong Kong SAR, some segments of the trails are remote i.e. no transportation, no shelters, no food or water and no mobile phone coverage.
 <br><br>
