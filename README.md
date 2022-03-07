@@ -3,7 +3,7 @@ For hiking enthusiasts savvy with mobile devices and offline hiking apps. This r
 <br><br>
 Methodology used to generate these tracks: using www.overpass-turbo.eu query wizard to extract nodes and export the output (in GeoJSON format) to `JOSM` editor https://josm.openstreetmap.de/ and manipulated to correct data inconsistencies and other errors. The elevation profile of the trails is derived from NASA's Advanced Spaceborne Thermal Emission and Reflection Radiometer `ASTER` Global Digital Elevation Model `GDEM` GeoTIFF geospatial metadata based on the GPS coordinates of the trail nodes.
 <br><br>
-Mobile version of Google Maps, despite its popularity in vehicle navigatioin and "offline mode", IMHO it is not designed to use with GPX/KML for hiking navigation, perhaps in the future. Examples of offline hiking apps are `Locus Map` (Andorid) and `Komoot` (Andorid and iPhone). If you use `Garmin` handheld GPS, simply import the GPX hiking trails. Be sure to bring a fully charged battery power bank and charging cable.
+Mobile version of Google Maps, despite its popularity in vehicle navigatioin and "offline mode", IMHO it is not designed to use with GPX/KML for hiking navigation, perhaps in the future. Examples of offline hiking apps are `Locus Map` (Andorid) and `Komoot` (Andorid and iPhone). If you use `Garmin` handheld GPS, simply import the GPX hiking trails. Be sure to bring a fully charged battery power bank and charging cable for your phone.
 <br><br>
 To visualize the GPX tracks/routes on a desktop, I use `GPXSee` www.gpxsee.org. `KML` version of the trails is hosted in this repository for visualization on `Google Earth`.
 Both GPX tracks and routes are hosted because some offline hiking apps prefer `GPX track` and others prefer `GPX route`.
