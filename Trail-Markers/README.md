@@ -1,4 +1,4 @@
-Hong Kong Hiking Trail - Trail Markers Geo Coordinate Repository (not too useful for hikers, perhaps helpful for search and rescue)
+Hong Kong Hiking Trail - Trail Markers Geo Coordinate Repository (not useful for hikers, perhaps helpful for search and rescue)
 
 Most of the times, you don't need to use or worry about these trail markers.
 They are included in this repository as GPX waypoints for completeness.
