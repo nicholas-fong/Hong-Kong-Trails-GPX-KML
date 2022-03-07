@@ -1,6 +1,6 @@
 Hong Kong Hiking Trails - Trail Markers database.
 
-In the PDF, the title "Distance Posts" is misleading. It has nothing to do with distance. It should be titled "Truncated MGRS Coordinates with ambigious GZD".
+In the PDF, the title "Distance Posts" is misleading. It has nothing to do with distance. It should be titled "Truncated MGRS Coordinates with ambigious grid zone `GZD`".
 
 For Wilson Trail, all trail markers are in grid zone 50Q.
 
