@@ -1,4 +1,4 @@
-Hong Kong Hiking Trails - Trail Markers Grid Reference database (incorrectly called Distance Posts)
+Hong Kong Hiking Trails - Trail Markers Grid Reference database (mistakenly called "Distance Posts") Should be called "Truncated MGRS Coordinates with ambigious GZD".
 
 If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference notation (on the trail marker) is a truncated MGRS notation with 100 m resolution, and the grid zone designator `GZD` is missing.
 
