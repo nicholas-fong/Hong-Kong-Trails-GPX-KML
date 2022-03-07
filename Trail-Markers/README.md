@@ -1,7 +1,7 @@
 Hong Kong Hiking Trail - Trail Markers Geo Coordinate Repository (not useful for hikers, perhaps helpful for search and rescue)
 
 Most of the times, you don't need to use or worry about these trail markers.
-They are included in this repository as GPX waypoints for completeness (Hong Kong Trail has 100 markers, Lantau Trail has 139 markers, MacLehose Trail has 200 markers, Wilson Trail has 137 markers)
+They are included in this repository as GPX waypoints for completeness (Hong Kong Trail has 100 markers over 50 km, Lantau Trail has 139 markers over 67 km, MacLehose Trail has 200 markers over 98 km, Wilson Trail has 137 markers over 76 km).
 
 On the trail markers, the title "Distance Post" is misleading. It has nothing to do with distance. It should be "Truncated MGRS Coordinate with ambigious grid zone GZD". If you don't know what MGRS is, don't worry about it.
 
