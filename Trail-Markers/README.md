@@ -2,8 +2,8 @@ Hong Kong Hiking Trail - Trail Markers Geo Coordinate Repository
 
 Most of the times, you don't need to use or worry about these trail markers.
 They are included in this repository as GPX waypoints for completeness.
-Note: Wilson Trail and Hong Kong Trail share 5 trail markers (sign posts). 
-<br>H053=W009, H054=W010, H055=W011, H056=W012, H057=W013
+
+On the trail markers, the title "Distance Posts" is misleading. It has nothing to do with distance. It should be titled "Truncated MGRS Coordinates with ambigious grid zone GZD".
 
 If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference notation (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
 
