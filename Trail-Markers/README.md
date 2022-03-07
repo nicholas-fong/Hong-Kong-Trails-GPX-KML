@@ -11,4 +11,4 @@ For Wilson Trail and Hong Kong Trail, trail markers are in grid zone 50Q.
 
 For Lantau Trail, trail markers L001 to L133 are in grid zone 49Q. Trail markers L134 to L139 are in grid zone 50Q. 
 
-For MacLehose Trail, trail markers L001 to L190 are in grid zone 50Q. Trail markers L191 to L200 are in grid zone 49Q. 
+For MacLehose Trail, trail markers M001 to M190 are in grid zone 50Q. Trail markers M191 to M200 are in grid zone 49Q. 
