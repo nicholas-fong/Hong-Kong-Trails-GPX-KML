@@ -1,5 +1,5 @@
 # Hong-Kong-Trails-GPX-Hiking
-For hiking enthusiasts savvy with mobile devices and offline hiking apps. This repository hosts complete set of GPX tracks/routes for the major hiking trails in Hong Kong SAR (Hong Kong Trail 港島徑 45 km, Lantau Trail 鳳凰徑 67 km, MacLehose Trail 麥理浩徑 98 km, Wilson Trail 衛奕信徑 12 km + 64 km).
+For hiking enthusiasts savvy with mobile devices and offline hiking apps. This repository hosts a complete set of GPX tracks/routes for the 4 major hiking trails in Hong Kong SAR (Hong Kong Trail 港島徑 45 km, Lantau Trail 鳳凰徑 67 km, MacLehose Trail 麥理浩徑 98 km, Wilson Trail 衛奕信徑 12 km + 64 km).
 <br><br>
 Methodology used to generate these tracks: using www.overpass-turbo.eu query wizard to extract nodes and export the output (in osm format) to `JOSM` editor https://josm.openstreetmap.de/ and manipulated to correct data inconsistencies and other errors. The `JOSM` editor clean data is exported as GeoJSON and then converted to GPX tracks or GPX routes or KML https://github.com/nicholas-fong/geoJSON-gpx-convert. The elevation profile of the trails is derived from NASA's Advanced Spaceborne Thermal Emission and Reflection Radiometer `ASTER` Global Digital Elevation Model `GDEM` GeoTIFF geospatial metadata based on the GPS coordinates of the trail nodes https://github.com/nicholas-fong/gpx-add-SRTM
 <br><br>
