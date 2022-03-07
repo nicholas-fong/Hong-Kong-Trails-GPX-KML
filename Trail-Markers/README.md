@@ -8,10 +8,10 @@ On the trail markers, the title "Distance Post" is misleading. It has nothing to
 If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
 That omission would make sense if all the (hiking) activities are within the same GZD, but they are not and hence these issues arise:
 
-For Wilson Trail, all trail markers are in grid zone 50Q (cool)
+Wilson Trail: all trail markers are in grid zone 50Q (cool)
 
-For Hong Kong Trail, all trail markers are in grid zone 50Q (cool)
+Hong Kong Trail: all trail markers are in grid zone 50Q (cool)
 
-For Lantau Trail, trail markers L001 to L133 are in grid zone 49Q, markers L134 to L139 are in grid zone 50Q (not cool)
+Lantau Trail: trail markers L001 to L133 are in grid zone 49Q, markers L134 to L139 are in grid zone 50Q (not cool)
 
-For MacLehose Trail, trail markers M001 to M190 are in grid zone 50Q, markers M191 to M200 are in grid zone 49Q (not cool)
+MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 to M200 are in grid zone 49Q (not cool)
