@@ -15,3 +15,5 @@ Hong Kong Trail: all trail markers are in grid zone 50Q (cool)
 Lantau Trail: trail markers L001 to L133 are in grid zone 49Q, markers L134 to L139 are in grid zone 50Q (not cool)
 
 MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 to M200 are in grid zone 49Q (not cool)
+
+In summary, despite good intention, the use of truncated grid reference to locate hikers in distress is less than ideal because of the ambigious grid zone GZD. It is much better to use the sign post's 
