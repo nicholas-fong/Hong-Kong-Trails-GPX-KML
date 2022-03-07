@@ -3,7 +3,7 @@ Trail Markers Geo Coordinate (not useful for hikers, slightly helpful for search
 Most of the times, you don't need to use or worry about these trail markers.
 They are included in this repository as GPX waypoints for completeness (Hong Kong Trail has 100 markers over 45 km, Lantau Trail has 139 markers over 67 km, MacLehose Trail has 200 markers over 98 km, Wilson Trail has 137 markers over 76 km). On average, there is a trail marker (sign post) roughly every 500 meters.
 
-On the trail markers, the title "Distance Post" is misleading. It has nothing to do with distance. It should be "Truncated MGRS Coordinate with ambigious grid zone GZD". If you don't know what MGRS is, don't worry about it.
+On the trail markers, the title "Distance Post" is misleading. It has nothing to do with distance. However, since the markers are roughly 500 m apart, one can argue strenuously that these are indeed incremental distance markers. More precisely, they should be labelled "Truncated MGRS Coordinate with ambigious grid zone GZD". If you don't know what MGRS or grid zone is, don't worry about it.
 
 If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
 That omission would make sense if all the (hiking) activities are within the same GZD, but they are not and hence these issues arise:
