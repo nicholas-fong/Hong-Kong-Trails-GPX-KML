@@ -1,24 +1,28 @@
-Trail Markers Geo Coordinates (not useful for hikers)
+Trail Markers (totally not useful for hikers)
 
-Most of the times, you don't need to use or worry about these trail markers.
-They are included in this repository as GPX waypoints for completeness. However it may be useful for spotting missing markers (maintenance) or in search & rescue.
+The marker locations are included in this repository for completeness. It may be useful for trail maintenance or search & rescue.
 
-There is a total of 567 trail markers. Hong Kong Trail has 100 markers over 45 km, Lantau Trail has 139 markers over 67 km, MacLehose Trail has 200 markers over 98 km, Wilson Trail has 137 markers over 76 km. On average, there is a trail marker (sign post) roughly every 500 meters.
+`Stats` There is a total of 567 trail markers in the 4 major hiking trails. On average, there is a trail marker (sign post) roughly every 500 meters. Hong Kong Trail has 100 markers, Lantau Trail has 139 markers, MacLehose Trail has 200 markers and Wilson Trail has 137 markers. 
 
-On the trail markers, the title "Distance Post" is misleading. It has nothing to do with distance. However, since the markers are roughly 500 m apart, one can argue strenuously that these are indeed incremental distance markers. More accurately, they should be titled "Truncated MGRS Coordinate with an ambigious grid zone GZD". If you don't know what MGRS or grid zone is, don't worry about it.
+`Perplexing` The words "Distance Post" on the sign post is misleading. It has nothing to do with distance. However, since the markers are roughly 500 m apart, one can argue strenuously that these are indeed incremental distance counters. More accurately, they should be titled "Truncated MGRS Coordinate with an ambigious grid zone GZD". Most hikers don't know or care about MGRS Coordinates.
 
-If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
+`Curiosity` If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
 That omission would be okay if all the (hiking) activities are within the same GZD, unfortunately they are not and hence these issues/complexity arise:
 
+`Complexity`<br>
 Wilson Trail: all trail markers are in grid zone 50Q (cool)<br>
 Hong Kong Trail: all trail markers are in grid zone 50Q (cool)<br>
 Lantau Trail: trail markers L001 to L133 are in grid zone 49Q, markers L134 to L139 are in grid zone 50Q (totally not cool)<br>
 MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 to M200 are in grid zone 49Q (totally not cool)<br>
 
-In short, the use of truncated grid reference to locate a friend/hiker in distress is an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail will cause uncertainty and error. 
+`Design drawback` In short, the use of truncated grid reference to locate a friend/hiker in distress is an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail will cause uncertainty and error. 
 
-In view of the original design drawback, perhaps the sign post's identifier is actually more useful. For example, sign post M115 (prefix M denotes MacLehose Trail) is at lat=22.348108 lon=114.153725. Sign post H062 (prefix H denotes Hong Kong Trail) is at lat=22.26045 lon=114.21352. Sign post L047 is at lat=22.22656 lon=113.8668 (prefix L denotes Lantau Trail). Sign post W128 is at lat=22.4928 lon=114.23158 (prefix W dentoes Wilson Trail).<br>
+In view of the above design drawback, perhaps the sign post's identifier is more useful in this way, e.g. 
+<br>Sign post M115 (prefix M denotes MacLehose Trail) is at lat lon 22.348108, 114.153725. 
+<br>Sign post H062 (prefix H denotes Hong Kong Trail) is at lat lon 22.260450, 114.21352. 
+<br>Sign post L047 (prefix L denotes Lantau Trail) is at lat lon 22.22656, 113.8668. 
+<br>Sign post W128 (prefix W dentoes Wilson Trail) is at lat lon 22.4928, 114.23158.
 
-Latitude and longitude (WGS84) for all the trail markers are contained in All-576-markers.gpx file. They can be visualized or extracted using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/). If needed, imported into a mobile device for field work (maintenance/S&R).
+Latitude and longitude (WGS84) for all the trail markers (sign posts) are contained in All-576-markers.gpx file. They can be visualized or extracted using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/). If need be, imported into a mobile device for field work (e.g. maintenance/S&R).
 
 Footnote: <br>1.8 km of Wilson Trail and Hong Kong Trail overlap each other near Jardine's Lookout. Hence 5 strangely labelled trail markers exist in that area: H053;W009 H054;W010 H055;W011 H056;W012 H057;W013
