@@ -17,7 +17,7 @@ MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 t
 
 In short, the use of truncated grid reference to locate a friend/hiker in distress is an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail. 
 
-In view of above, perhaps the sign post's identifier is more useful, e.g. Sign post M115 (prefix M denotes MacLehose) is at lat=22.348108 lon=114.153725. Sign post H062 (prefix H denotes Hong Kong Trail) is at lat=22.26045 lon=114.21352. Sign post L047 is at lat=22.22656 lon=113.8668 (prefix L denotes Lantau Trail). Sign post W128 is at lat=22.4928 lon=114.23158 (prefix W dentoes Wilson Trail).<br>
+In view of above, perhaps the sign post's identifier is more useful, e.g. Sign post M115 (prefix M denotes MacLehose Trail) is at lat=22.348108 lon=114.153725. Sign post H062 (prefix H denotes Hong Kong Trail) is at lat=22.26045 lon=114.21352. Sign post L047 is at lat=22.22656 lon=113.8668 (prefix L denotes Lantau Trail). Sign post W128 is at lat=22.4928 lon=114.23158 (prefix W dentoes Wilson Trail).<br>
 Latitude and longitude for all the trail markers are stored in the corresponding Trail-Makers.GPX file, they can be viewed using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/)
 
 Footnote: <br>1.8 km of Wilson Trail and Hong Kong Trail overlap each other near Jardine's Lookout. Hence 5 strangely labelled trail markers exist in that area: H053;W009 H054;W010 H055;W011 H056;W012 H057;W013
