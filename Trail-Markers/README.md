@@ -14,7 +14,7 @@ Hong Kong Trail: all trail markers are in grid zone 50Q (cool)<br>
 Lantau Trail: trail markers L001 to L133 are in grid zone 49Q, markers L134 to L139 are in grid zone 50Q (not cool)<br>
 MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 to M200 are in grid zone 49Q (not cool)<br>
 
-In summary, the use of truncated grid reference to locate hikers in distress is an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail. 
+In short, the use of truncated grid reference to locate a friend/hiker in distress is an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail. 
 
 In view of above, perhaps the sign post's identifier is more useful, e.g. Sign post M115 (prefix M denotes MacLehose) is at lat=22.348108 lon=114.153725. Sign post H062 (prefix H denotes Hong Kong Trail) is at lat=22.26045 lon=114.21352. Sign post L047 is at lat=22.22656 lon=113.8668 (prefix L denotes Lantau Trail). Sign post W128 is at lat=22.4928 lon=114.23158 (prefix W dentoes Wilson Trail).<br>
 Latitude and longitude for all the trail markers are stored in the corresponding Trail-Makers.GPX file, they can be viewed using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/)
