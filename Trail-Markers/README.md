@@ -1,4 +1,4 @@
-Trail Markers Geo Coordinates (not useful for hikers, slightly helpful for search and rescue)
+Trail Markers Geo Coordinates (not useful for hikers, barely helpful for search and rescue)
 
 Most of the times, you don't need to use or worry about these trail markers.
 They are included in this repository as GPX waypoints for completeness.<br>
