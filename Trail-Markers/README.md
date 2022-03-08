@@ -25,4 +25,4 @@ In view of the above design drawback, perhaps the sign post's identifier is more
 
 Latitude and longitude (WGS84) for all the trail markers (sign posts) are contained in All-576-markers.gpx file. They can be visualized or extracted using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/). If need be, imported into a mobile device for field work (e.g. maintenance/S&R).
 
-Footnote: <br>1.8 km of Wilson Trail and Hong Kong Trail overlap each other near Jardine's Lookout. Hence 5 strangely labelled trail markers exist in that area: H053;W009 H054;W010 H055;W011 H056;W012 H057;W013
+`Footnote` <br>1.8 km of Wilson Trail and Hong Kong Trail overlap each other near Jardine's Lookout. Hence 5 strangely labelled trail markers exist in that area: H053;W009 H054;W010 H055;W011 H056;W012 H057;W013
