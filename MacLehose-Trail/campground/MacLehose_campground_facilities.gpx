@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.0" creator="GPSBabel - https://www.gpsbabel.org">
+  <time>2021-01-12T03:42:42.385000Z</time>
+  <bounds minlat="22.34891" maxlat="22.43698" minlon="113.977889" maxlon="114.37528">
+  </bounds>
+  <wpt lat="22.42816" lon="114.30898">
+    <ele>316</ele>
+    <name>嶂上營地 Chenung Sheung Stream</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.360578" lon="114.22216">
+    <ele>434</ele>
+    <name>基維爾營地飛鵝山 Gilwell (private)</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.41" lon="114.3748">
+    <ele>2</ele>
+    <name>鹹田灣營地 Ham Tin</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.411311" lon="114.157868">
+    <ele>384</ele>
+    <name>鉛礦坳營地 Lead Mine Tap Water</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.37333" lon="114.37528">
+    <ele>4</ele>
+    <name>浪茄灣營地 Long Ke Wan Stream Water</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.42329" lon="114.33607">
+    <ele>162</ele>
+    <name>北潭凹營地 Pak Tam Au</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.39234" lon="114.251032">
+    <ele>384</ele>
+    <name>昂平營地馬鞍山 Ngong Ping Camp Stream</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.35877" lon="114.36479">
+    <ele>56</ele>
+    <name>白臘營地 Pak Lap Camp</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.405097" lon="114.105205">
+    <ele>468</ele>
+    <name>扶輪公園營地 Rotary Club Camp</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.39963" lon="114.36928">
+    <ele>4</ele>
+    <name>西灣營地 Sai Wan beach</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.37827" lon="114.14826">
+    <ele>199</ele>
+    <name>城門水塘 Shin Mung BBQ Area</name>
+  </wpt>
+  <wpt lat="22.40278" lon="114.27528">
+    <ele>153</ele>
+    <name>水浪窩營地 Shui Long Wo Camp Stream</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.385828" lon="114.308128">
+    <ele>14</ele>
+    <name>大網仔營地 Tai Mong Tsai Camp Tap</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.39" lon="114.06611">
+    <ele>221</ele>
+    <name>田夫仔營地 Tin Fu Tsai Camp Stream</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.40689" lon="114.1039">
+    <ele>479</ele>
+    <name>荃錦營地 Twisk Campsite Tap</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.43489" lon="114.33625">
+    <ele>20</ele>
+    <name>黃石營地 Wong Shek Camp</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.43698" lon="114.334119">
+    <ele>29</ele>
+    <name>大灘營地 Tai Tan Camp</name>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="22.395176" lon="113.977889">
+    <ele>9</ele>
+    <name>屯門麥理浩徑 Maclehose</name>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="22.40011" lon="114.32395">
+    <ele>6</ele>
+    <name>北潭涌麥理浩徑 Maclehose</name>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="22.35545" lon="114.19954">
+    <ele>295</ele>
+    <name>沙田坳村慈雲山 Store</name>
+  </wpt>
+  <wpt lat="22.34891" lon="114.15247">
+    <ele>146</ele>
+    <name>九龍水塘 Toilet</name>
+  </wpt>
+  <wpt lat="22.40582" lon="114.1065">
+    <ele>495</ele>
+    <name>大帽山遊客中心 Tai Mo Shan Visitor Centre</name>
+  </wpt>
+  <wpt lat="22.39727" lon="114.37125">
+    <ele>4</ele>
+    <name>西灣村 Sai Wan Village</name>
+  </wpt>
+  <wpt lat="22.36181" lon="114.22207">
+    <ele>433</ele>
+    <name>基維爾 Stream water</name>
+  </wpt>
+  <wpt lat="22.42172" lon="114.33249">
+    <ele>147</ele>
+    <name>北潭凹 Toilet and Water</name>
+    <sym>Restrooms</sym>
+  </wpt>
+  <wpt lat="22.42962" lon="114.30873">
+    <ele>308</ele>
+    <name>嶂上士多 Cheung Sheung Store</name>
+    <sym>Convenience Store</sym>
+  </wpt>
+  <wpt lat="22.40989" lon="114.374488">
+    <ele>2</ele>
+    <name>鹹田 Ham Tin Toilet</name>
+    <sym>Restrooms</sym>
+  </wpt>
+  <wpt lat="22.398218" lon="114.369751">
+    <ele>3</ele>
+    <name>西灣 Toilet</name>
+    <sym>Restrooms</sym>
+  </wpt>
+</gpx>
