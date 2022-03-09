@@ -7,7 +7,7 @@ Open [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) to manually cor
 <br>remove overlapping/duplicated/extraneous paths and objects
 <br>chang direction of paths to be consistent (follow sign post from n to n+1)
 <br>joint segments that are disjointed
-<br>merge all small segments into one complete path (e.g. one LineString, one track segment, one route)
+<br>merge all small segments into one complete path (e.g. GeoJSON: one LineString, GPX: one track segment or one route)
 <br>optimize (reduce) number of nodes
 
 The cleaned up data is saved as `GeoJSON` and then converted to `GPX tracks`,`GPX routes` and `KML` using code from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
