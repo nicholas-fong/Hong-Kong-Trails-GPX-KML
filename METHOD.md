@@ -1,5 +1,5 @@
 # Methodology used to generate these hiking tracks:<br>
-Use [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard box: name ~ 'MacLehose Trail' 
+Use [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard box: name ~ "MacLehose Trail" 
 
 save (export) the output as `GeoJSON`
 
