@@ -1,15 +1,16 @@
-# Methodology used to generate these hiking GPX tracks:<br>
-Use [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard box: name ~ "MacLehose Trail" 
+# Methodology used to generate these high quality hiking GPX tracks:<br>
+On a per trail section basis: 
+<br>use [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard search box type: name ~ "MacLehose Trail Section 1" 
 
-Save (export) the output as `GeoJSON`
+Eexport the result as `GeoJSON` file.
 
-Open [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) to manually correct data inconsistencies:
+Open [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) to manually correct these data inconsistencies:
 <br>-remove overlapping/duplicated/extraneous paths and objects
 <br>-change direction of fragmented paths to be consistent (direction follows sign posts from n to n+1)
 <br>-join nodes along the trail that were disjointed
-<br>-merge all segments into one complete path. 
+<br>-merge all fragmented paths into one continuous path. 
 <br>-optimize (reduce) the number of nodes using JOSM built in tool
-<br>-ensure GeoJSON file has only one LineString, GPX file has only one track segment or only one route
+<br>-ensure the final GeoJSON file has only one LineString, GPX file has only one track segment or only one route
 
 The cleaned up data is saved as `GeoJSON` and then converted to `GPX tracks`,`GPX routes` and `KML` using code from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
 
