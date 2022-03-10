@@ -17,7 +17,7 @@ MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 t
 
 `Design flaw` The use of truncated grid reference to locate a friend/hiker in distress could be an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail. It will likely cause uncertainty and error. 
 
-`Eureka` The sign post's identifier gives more useful information, e.g. 
+`Discovery` The sign post's identifier gives more useful information, e.g. 
 <br>Sign post M115 (prefix M denotes MacLehose Trail) is at lat lon 22.348108, 114.153725. 
 <br>Sign post H062 (prefix H denotes Hong Kong Trail) is at lat lon 22.260450, 114.21352. 
 <br>Sign post L047 (prefix L denotes Lantau Trail) is at lat lon 22.22656, 113.8668. 
