@@ -4,7 +4,7 @@ The marker locations are included in this repository for completeness. It may be
 
 `Stats` There is a total of 567 trail markers in the 4 major hiking trails. On average, there is a trail marker (sign post) roughly every 500 meters. Hong Kong Trail has 100 markers, Lantau Trail has 139 markers, MacLehose Trail has 200 markers and Wilson Trail has 137 markers. 
 
-`Perplexing` The words "Distance Post" on the sign post is misleading. It has nothing to do with distance. However, since the markers are roughly 500 m apart, one can argue strenuously that these are indeed incremental distance counters. More accurately, they should be titled "Truncated MGRS Coordinate with an ambigious grid zone GZD". Most hikers don't know or care about MGRS Coordinates.
+`Perplexing` The words "Distance Post" on the sign post is misleading. It has nothing to do with distance. However, since the markers are roughly 500 m apart, one can argue strenuously that these are indeed incremental distance counters. More accurately, they should be titled "Truncated MGRS Coordinate with an ambigious grid zone GZD". Most hikers don't know, don't need or care about MGRS Coordinates.
 
 `Curiosity` If you are familiar with MGRS or wearing a Garmin watch with MGRS, when you come across a trail marker, you will notice that the Grid Reference (on the trail marker) is a truncated MGRS (100 m resolution) and the grid zone designator `GZD` is omitted.
 That omission would be okay if all the (hiking) activities are within the same GZD, unfortunately they are not and hence these issues/complexity arise:
