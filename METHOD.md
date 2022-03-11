@@ -1,7 +1,9 @@
 # Methodology used to generate these high quality hiking GPX tracks:<br>
-On a section by section basis: 
-<br>With the help of Google Map, find out the area of interest. Use `Overpass` to zoom in to the approximate area of interest.
-<br>use [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard search box enter: name ~ "MacLehose Trail Section 1" 
+On a section by section basis:
+<br>MacLehose 10 sections; Wilson 10 sections; Hong Kong 8 sections; Lantau 12 sections.
+<br>use Google Map to search and zoom to the area of interest. 
+<br>open `Overpass` and zoom to the same area.
+<br>run [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard search box enter: name ~ "MacLehose Trail Section 1" 
 
 Export the result as a `GeoJSON` file.
 
