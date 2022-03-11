@@ -5,7 +5,7 @@ On a section by section basis:
 Export the result as a `GeoJSON` file.
 
 Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open the GeoJSON file to manually correct for these data inconsistencies:
-<br>-remove overlapping/duplicated/extraneous paths and objects
+<br>-remove overlapping, duplicated or extraneous paths and objects
 <br>-change direction of fragmented paths to be consistent (direction follows sign posts from n to n+1)
 <br>-Lantau Trail: counter clockwise from Mui Wo ferry terminal. MacLehose Trail: counter clockwise from Pak Tam Chung.
 <br>-Hong Kong Trail: counter clockwise from The Peak. Wilson Trail: south to north from Stanley Gap Road.
