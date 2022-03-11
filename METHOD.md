@@ -28,4 +28,4 @@ To combine 2 trail sections: (e.g. Wilson Section 1 and Wilson Section 2)
 To generate `GPX tracks`,`GPX routes` and `KML` from above `GeoJSON`:
 <br>-use codes from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
 
-The elevation profile of the GPX tracks and GPX routes is added using codes from [gpx-add-SRTM](https://github.com/nicholas-fong/gpx-add-SRTM) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
+The elevation profile of the `GPX tracks` and `GPX routes` is added using codes from [gpx-add-SRTM](https://github.com/nicholas-fong/gpx-add-SRTM) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
