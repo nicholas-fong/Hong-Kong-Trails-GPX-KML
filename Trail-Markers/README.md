@@ -18,13 +18,13 @@ MacLehose Trail: trail markers M001 to M190 are in grid zone 50Q, markers M191 t
 `Design flaw` The use of truncated grid reference to locate a friend/hiker in distress could be an inferior approach because of the ambigious grid zone in Lantau Trail and MacLehose Trail. It will likely cause confusion and error. 
 
 `Discovery` The sign post's identifier gives more useful information, e.g. 
-<br>Sign post M115 (prefix M denotes MacLehose Trail) is at lat lon 22.348108, 114.153725. 
-<br>Sign post H062 (prefix H denotes Hong Kong Trail) is at lat lon 22.260450, 114.21352. 
-<br>Sign post L047 (prefix L denotes Lantau Trail) is at lat lon 22.22656, 113.8668. 
-<br>Sign post W128 (prefix W dentoes Wilson Trail) is at lat lon 22.4928, 114.23158.
+<br>Sign post M115 (prefix M denotes MacLehose Trail) is at lat/lon 22.348108, 114.153725. 
+<br>Sign post H062 (prefix H denotes Hong Kong Trail) is at lat/lon 22.260450, 114.21352. 
+<br>Sign post L047 (prefix L denotes Lantau Trail) is at lat/lon 22.22656, 113.8668. 
+<br>Sign post W128 (prefix W dentoes Wilson Trail) is at lat/lon 22.4928, 114.23158.
 
-`Final Product` Latitude and longitude (WGS84) for all the trail markers (sign posts) are contained in All-576-markers.gpx and All-576-markers.kml. The GPX file can be visualized using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/). If need be, imported into a mobile device for field work (e.g. maintenance/S&R). The KML file can be imported to Google Earth or Google My Maps. 
+`Final Product` Latitude and longitude (WGS84) for all the trail markers (sign posts) are contained in All-576-markers.gpx and All-576-markers.kml. The GPX file can be visualized using [GPXSee](http://www.gpxsee.org) or [notepad++](https://notepad-plus-plus.org/). If need be, imported into a mobile device for field work (e.g. maintenance/S&R). The KML file can be imported to Google Earth or Google My Maps. The GeoJSON file can be imported to GIS for further manipulations.
 
-Optionally, append/import these markers (waypoints) to the hiking trails.
+Optionally, append/import these markers (waypoints) to the hiking trails on mobile devices.
 
 `Footnote` <br>1.8 km of Wilson Trail and Hong Kong Trail overlap each other near Jardine's Lookout. Hence 5 strangely labelled trail markers exist in that area: H053;W009 H054;W010 H055;W011 H056;W012 H057;W013
