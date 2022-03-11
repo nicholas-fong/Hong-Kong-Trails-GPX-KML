@@ -1,4 +1,4 @@
-# Methodology used to generate these high quality hiking GPX tracks:<br>
+# Methodology used to generate high quality hiking GPX tracks<br>
 On a section by section basis:
 <br>MacLehose 10 sections; Wilson 10 sections; Hong Kong 8 sections; Lantau 12 sections.
 <br>use Google Map to search and zoom to the area of interest. 
