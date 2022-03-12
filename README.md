@@ -13,4 +13,4 @@ Due to the length and difficulties of the full trails, hiking trails are divided
 `Government sites` The Agriculture, Fisheries and Conservation Department `AFCD` 漁農自然護理署 of Hong Kong SAR's [Enjoy Hiking website](https://www.hiking.gov.hk) is an excellent starting point for planning a hike. The Country and Marine Parks Authority `CMPA` 郊野公園及海岸公園管理局 of Hong Kong SAR operates and maintains the trails.
 The Office of the Communications Authority `OFCA` 通訊事務管理局辦公室 of Hong Kong SAR publishes [PDF trail maps](https://www.ofca.gov.hk/en/consumer_focus/guide/safety/country_parks/coverage_survey/digital_map/index.html) with estimated mobile phone signal coverage. It is prudent to print a backup paper map especially for long hikes just in case GPS technology devices go badly during the hike. 
 
-Be sure to carry a fully charged battery power bank and charging cable for your phone.
+Be sure to carry a fully charged battery power bank and good quality charging cable for your phone.
