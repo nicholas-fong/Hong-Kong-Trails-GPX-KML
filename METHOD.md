@@ -18,10 +18,6 @@ Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open the 
 <br>-save as a `GeoJSON` file. e.g. MacLehose1.geojson
 <br>-invoke notepad++ and open above to check it has only one LineString
 
-
-To generate `GPX tracks`,`GPX routes` and `KML` from above `GeoJSON`:
-<br>-use codes from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
-
 To combine 2 trail sections: (e.g. Wilson Section 1 and Wilson Section 2)
 <br>-invoke JOSM and open Wilson1.geojson and Wilson2.geojson
 <br>-merge the layers into one layer: Ctrl+M
