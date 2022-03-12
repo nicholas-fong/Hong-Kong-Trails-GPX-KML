@@ -29,4 +29,4 @@ To generate `GPX tracks`,`GPX routes` and `KML` from `GeoJSON`:
 
 The elevation profile of the `GPX tracks` and `GPX routes` is added using codes from [gpx-add-SRTM](https://github.com/nicholas-fong/gpx-add-SRTM) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
 
-Note: GeoJSON files have no elevation data. Only GPX route and GPX track have elevation data.
+Note: `GeoJSON` files have no elevation data. Only `GPX route` and `GPX track` have elevation data.
