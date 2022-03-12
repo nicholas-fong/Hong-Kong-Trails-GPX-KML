@@ -14,7 +14,7 @@ Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open the 
 <br>-Hong Kong Trail: counter clockwise from The Peak. Wilson Trail: south to north from Stanley Gap Road.
 <br>-if 2 paths are separated, join the end nodes. Select the 2 nodes, Tools...Merge Node (M)
 <br>-select 2 or more paths and combine: Tools...Combine Way (C) 
-<br>-optimize the number of nodes using JOSM's built-in "simplify way" tool (Shift+Y)
+<br>-(optional) optimize the number of nodes using JOSM's built-in "simplify way" tool (Shift+Y)
 <br>-save as a `GeoJSON` file. e.g. MacLehose1.geojson
 <br>-invoke notepad++ and open above to check it has only one LineString
 
