@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.2651" lon="114.001822">
+    <name>Lantau1</name>
+  </wpt>
+  <wpt lat="22.256162" lon="113.988371">
+    <name>Lantau2</name>
+  </wpt>
+  <wpt lat="22.248177" lon="113.943031">
+    <name>Lantau3</name>
+  </wpt>
+  <wpt lat="22.252662" lon="113.912326">
+    <name>Lantau4</name>
+  </wpt>
+  <wpt lat="22.244711" lon="113.89174">
+    <name>Lantau5</name>
+  </wpt>
+  <wpt lat="22.236756" lon="113.87041">
+    <name>Lantau6</name>
+  </wpt>
+  <wpt lat="22.247977" lon="113.86358">
+    <name>Lantau7</name>
+  </wpt>
+  <wpt lat="22.207323" lon="113.867321">
+    <name>Lantau8</name>
+  </wpt>
+  <wpt lat="22.228344" lon="113.890852">
+    <name>Lantau9</name>
+  </wpt>
+  <wpt lat="22.221444" lon="113.91781">
+    <name>Lantau10</name>
+  </wpt>
+  <wpt lat="22.239898" lon="113.957318">
+    <name>Lantau11</name>
+  </wpt>
+  <wpt lat="22.243289" lon="113.976674">
+    <name>Lantau12</name>
+  </wpt>
+  <wpt lat="22.26434" lon="114.00134">
+    <name>Lantau12-end</name>
+  </wpt>
+</gpx>
