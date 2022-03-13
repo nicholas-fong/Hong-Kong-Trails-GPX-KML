@@ -9,12 +9,14 @@ Export the result as a `GeoJSON` file.
 
 Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open the GeoJSON file to manually correct for these data inconsistencies:
 <br>-remove overlapping, duplicated or extraneous paths and objects
-<br>-change direction of fragmented paths to be consistent (direction follows sign posts from n to n+1)
-<br>-Lantau Trail: counter clockwise from Mui Wo ferry terminal. MacLehose Trail: counter clockwise from Pak Tam Chung.
-<br>-Hong Kong Trail: counter clockwise from The Peak. Wilson Trail: south to north from Stanley Gap Road.
-<br>-if 2 paths are separated, join the end nodes. Select the 2 nodes, Tools...Merge Node (M)
-<br>-select 2 paths and combine: Tools...Combine Way (C) 
-<br>-(optional) optimize the number of nodes using JOSM's built-in "simplify way" tool (Shift+Y)
+<br>-change direction of paths to be consistent (direction follows sign posts from n to n+1)
+<br>-Lantau Trail: counter clockwise from Mui Wo ferry terminal. 
+<br>-MacLehose Trail: counter clockwise from Pak Tam Chung.
+<br>-Hong Kong Trail: counter clockwise from The Peak. 
+<br>-Wilson Trail: south to north from Stanley Gap Road.
+<br>-if 2 paths are separated, connect them as one. Select the tail node of one path and the head node of the second path: (M)
+<br>-select 2 joined paths and combine: (C) 
+<br>-optimize the number of nodes using JOSM's built-in "simplify way" tool to 0.5 m accuracy (Shift+Y)
 <br>-save as a `GeoJSON` file. e.g. MacLehose1.geojson
 <br>-invoke notepad++ and open above to check it has one and only one LineString
 
