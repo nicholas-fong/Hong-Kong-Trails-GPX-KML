@@ -13,16 +13,16 @@ Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open the 
 <br>-Lantau Trail: counter clockwise from Mui Wo ferry terminal. MacLehose Trail: counter clockwise from Pak Tam Chung.
 <br>-Hong Kong Trail: counter clockwise from The Peak. Wilson Trail: south to north from Stanley Gap Road.
 <br>-if 2 paths are separated, join the end nodes. Select the 2 nodes, Tools...Merge Node (M)
-<br>-select 2 or more paths and combine: Tools...Combine Way (C) 
+<br>-select 2 paths and combine: Tools...Combine Way (C) 
 <br>-(optional) optimize the number of nodes using JOSM's built-in "simplify way" tool (Shift+Y)
 <br>-save as a `GeoJSON` file. e.g. MacLehose1.geojson
-<br>-invoke notepad++ and open above to check it has only one LineString
+<br>-invoke notepad++ and open above to check it has one and only one LineString
 
-To combine trail sections: (e.g. Wilson Section 1, Wilson Section 2 and Wilson Section 3)
-<br>-invoke JOSM and open Wilson1.geojson, Wilson2.geojson and Wilson3.geojson
+To combine trail sections: (e.g. Wilson Section 2 and Wilson Section 3)
+<br>-invoke JOSM and open Wilson2.geojson and Wilson3.geojson
 <br>-merge the layers into one layer: Ctrl+M
-<br>-select the trails and combine: Tools...Combine Way (C)
-<br>-save as a `GeoJSON` file. e.g. Wilson-1-2-3.geojson
+<br>-select the 2 trails and combine: Tools...Combine Way (C)
+<br>-save as a `GeoJSON` file. e.g. Wilson-2-3.geojson
 
 To generate `GPX tracks`,`GPX routes` and `KML` from `GeoJSON`:
 <br>-use codes from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
