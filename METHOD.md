@@ -4,6 +4,7 @@ On a section by section basis:
 <br>use Google Map to search and zoom to the area of interest. 
 <br>open `Overpass` and zoom to the same area.
 <br>run [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard search box enter: name ~ "MacLehose Trail Section 1"
+<br>(for small fitness trail) enter: name ~ "Aberdeen Fitness Trail"
 <br>note the quoted text in the search box is case sensitive
 
 Export the result as a `GeoJSON` file.
