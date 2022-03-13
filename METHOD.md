@@ -1,6 +1,6 @@
 # Method used to generate high quality hiking GPX tracks<br>
 On a section by section basis:
-<br>MacLehose 10 sections; Wilson 10 sections; Hong Kong 8 sections; Lantau 12 sections.
+<br>(MacLehose 10 sections; Wilson 10 sections; Hong Kong 8 sections; Lantau 12 sections)
 <br>use Google Map to search and zoom to the area of interest. 
 <br>open `Overpass` and zoom to the same area.
 <br>run [Overpass](https://www.overpass-turbo.eu) query wizard to extract nodes, e.g. in the query wizard search box enter: name ~ "MacLehose Trail Section 1" 
