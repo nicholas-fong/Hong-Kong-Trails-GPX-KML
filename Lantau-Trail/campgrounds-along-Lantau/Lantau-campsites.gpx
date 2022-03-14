@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.255105" lon="113.914275">
+    <ele>446</ele>
+    <name> 昂坪營地Ngong Ping Camp Site</name>
+  </wpt>
+  <wpt lat="22.23066" lon="113.867214">
+    <ele>285</ele>
+    <name> 萬丈布營地 Man Cheung Po Campsite</name>
+  </wpt>
+  <wpt lat="22.208862" lon="113.844237">
+    <ele>60</ele>
+    <name> Camp site 1</name>
+  </wpt>
+  <wpt lat="22.238682" lon="113.852962">
+    <ele>23</ele>
+    <name> 牙鷹角營地 Nga Ying Kok Campsite</name>
+  </wpt>
+  <wpt lat="22.213873" lon="113.903106">
+    <ele>16</ele>
+    <name> 石欖洲營地 Shek Lam Chau Campsite</name>
+  </wpt>
+  <wpt lat="22.214151" lon="113.877839">
+    <ele>8</ele>
+    <name> 大浪灣營地 Tai Long Wan Camp Site</name>
+  </wpt>
+  <wpt lat="22.20457" lon="113.863731">
+    <ele>10</ele>
+    <name> 狗嶺涌營地 Kau Ling Chung Camp Site</name>
+  </wpt>
+  <wpt lat="22.228931" lon="113.889726">
+    <ele>77</ele>
+    <name> 石壁營地 Shek Pik Campsite</name>
+  </wpt>
+  <wpt lat="22.204596" lon="113.864429">
+    <ele>7</ele>
+    <name> Camp site 2</name>
+  </wpt>
+  <wpt lat="22.257829" lon="113.958436">
+    <ele>749</ele>
+    <name> 爛頭營 Lantau Mountain Camp</name>
+  </wpt>
+  <wpt lat="22.211381" lon="113.915001">
+    <ele>5</ele>
+    <name> 籮箕灣營地 Lo Kei Wan Campsite</name>
+  </wpt>
+  <wpt lat="22.254126" lon="113.98625">
+    <ele>84</ele>
+    <name> 南山營地 Nam Shan Campsite</name>
+  </wpt>
+  <wpt lat="22.239606" lon="113.977644">
+    <ele>7</ele>
+    <name> 貝澳營地 Pui O Campsite</name>
+  </wpt>
+  <wpt lat="22.237571" lon="113.988228">
+    <ele>56</ele>
+    <name> 十塱營地 Shap Long Campsite</name>
+  </wpt>
+  <wpt lat="22.251973" lon="113.993864">
+    <ele>147</ele>
+    <name> 白富田營地 Pak Fu Tin Campsite</name>
+  </wpt>
+  <wpt lat="22.23057" lon="113.941135">
+    <ele>7</ele>
+    <name> Drinking Water 1</name>
+  </wpt>
+  <wpt lat="22.234466" lon="113.954723">
+    <ele>5</ele>
+    <name> Drinking Water 2</name>
+  </wpt>
+  <wpt lat="22.205232" lon="113.864477">
+    <ele>7</ele>
+    <name> Drinking Water 3</name>
+  </wpt>
+</gpx>
