@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.498739" lon="114.177942">
+    <ele>48</ele>
+    <name> 鶴藪營地 Hok Tau Campsite</name>
+  </wpt>
+  <wpt lat="22.411278" lon="114.157797">
+    <ele>401</ele>
+    <name> 鉛礦坳營地 Lead Mine Pass Campsite</name>
+  </wpt>
+</gpx>
