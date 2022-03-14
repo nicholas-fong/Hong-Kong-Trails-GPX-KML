@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.38222" lon="114.3269">
+    <name> 曝罟灣營地 Po Kwu Wan Camp Site</name>
+  </wpt>
+  <wpt lat="22.377594" lon="114.332529">
+    <name> 元五墳營地 Yuen Ng Fan Campsite</name>
+  </wpt>
+  <wpt lat="22.35877" lon="114.36479">
+    <name> 白臘營地 Pak Lap Camp Site</name>
+  </wpt>
+  <wpt lat="22.37333" lon="114.37528">
+    <name> 浪茄灣營地 Long Ke Wan Camps Site</name>
+  </wpt>
+  <wpt lat="22.39963" lon="114.36928">
+    <name> 西灣營地 Sai Wan Camp Site</name>
+  </wpt>
+  <wpt lat="22.410056" lon="114.374826">
+    <name> 鹹田灣營地 Ham Tin Wan Camp Site</name>
+  </wpt>
+  <wpt lat="22.42329" lon="114.33607">
+    <name> 北潭凹營地 Pak Tam Au Camp Site</name>
+  </wpt>
+  <wpt lat="22.42816" lon="114.30898">
+    <name> 嶂上營地 Chenung Sheung Campsite</name>
+  </wpt>
+  <wpt lat="22.40278" lon="114.27528">
+    <name> 水浪窩營地 Shui Long Wo Camp Site</name>
+  </wpt>
+  <wpt lat="22.392425" lon="114.250989">
+    <name> 昂平營地 Ngong Ping Camp Site</name>
+  </wpt>
+  <wpt lat="22.411278" lon="114.157797">
+    <name> 鉛礦坳營地 Lead Mine Pass Camp Site</name>
+  </wpt>
+  <wpt lat="22.405097" lon="114.105205">
+    <name> 扶輪公園營地 Rotary Park Camp Site</name>
+  </wpt>
+  <wpt lat="22.406934" lon="114.103872">
+    <name> 荃錦營地 Twisk Camp Site</name>
+  </wpt>
+  <wpt lat="22.390104" lon="114.066018">
+    <name> 田夫仔營地 Tin Fu Tsai Camp Site</name>
+  </wpt>
+  <wpt lat="22.34883" lon="114.15259">
+    <name> Water Filling</name>
+  </wpt>
+  <wpt lat="22.42171" lon="114.33247">
+    <name> Water Station</name>
+  </wpt>
+</gpx>
