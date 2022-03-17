@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.395065" lon="113.977832">
+    <ele>21</ele>
+    <name>Section10-end</name>
+  </wpt>
+  <wpt lat="22.390478" lon="114.06585">
+    <ele>247</ele>
+    <name>Section10</name>
+  </wpt>
+  <wpt lat="22.402944" lon="114.278293">
+    <ele>77</ele>
+    <name>Section4</name>
+  </wpt>
+  <wpt lat="22.361281" lon="114.220918">
+    <ele>415</ele>
+    <name>Section5</name>
+  </wpt>
+  <wpt lat="22.411833" lon="114.158218">
+    <ele>392</ele>
+    <name>Section8</name>
+  </wpt>
+  <wpt lat="22.406563" lon="114.105292">
+    <ele>480</ele>
+    <name>Section9</name>
+  </wpt>
+  <wpt lat="22.420699" lon="114.331861">
+    <ele>159</ele>
+    <name>Section3</name>
+  </wpt>
+  <wpt lat="22.371242" lon="114.373479">
+    <ele>98</ele>
+    <name>Section2</name>
+  </wpt>
+  <wpt lat="22.378094" lon="114.144281">
+    <ele>196</ele>
+    <name>Section7</name>
+  </wpt>
+  <wpt lat="22.400005" lon="114.323763">
+    <ele>7</ele>
+    <name>Section1</name>
+  </wpt>
+  <wpt lat="22.348906" lon="114.152846">
+    <ele>163</ele>
+    <name>Section6</name>
+  </wpt>
   <trk>
     <name>麥理浩徑 MacLehose Trail</name>
     <trkseg>
