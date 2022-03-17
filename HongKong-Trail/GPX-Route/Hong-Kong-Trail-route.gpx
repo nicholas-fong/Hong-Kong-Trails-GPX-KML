@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.264799" lon="114.166128">
+    <ele>177</ele>
+    <name>Section4</name>
+  </wpt>
+  <wpt lat="22.271251" lon="114.149528">
+    <ele>390</ele>
+    <name>Section1</name>
+  </wpt>
+  <wpt lat="22.266328" lon="114.142596">
+    <ele>223</ele>
+    <name>Section2</name>
+  </wpt>
+  <wpt lat="22.257219" lon="114.1922">
+    <ele>198</ele>
+    <name>Section5</name>
+  </wpt>
+  <wpt lat="22.244695" lon="114.245607">
+    <ele>26</ele>
+    <name>Section8-end</name>
+  </wpt>
+  <wpt lat="22.247829" lon="114.221174">
+    <ele>41</ele>
+    <name>Section7</name>
+  </wpt>
+  <wpt lat="22.227086" lon="114.239738">
+    <ele>126</ele>
+    <name>Section8</name>
+  </wpt>
+  <wpt lat="22.26687" lon="114.21336">
+    <ele>327</ele>
+    <name>Section6</name>
+  </wpt>
+  <wpt lat="22.255643" lon="114.153579">
+    <ele>118</ele>
+    <name>Section3</name>
+  </wpt>
   <rte>
     <name>港島徑 Hong Kong Trail</name>
     <rtept lat="22.271277" lon="114.149506">
