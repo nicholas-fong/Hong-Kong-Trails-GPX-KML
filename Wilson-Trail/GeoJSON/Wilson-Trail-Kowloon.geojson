@@ -6,6 +6,123 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Section10-end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.20720764724,
+                    22.51420953058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.19953631779,
+                    22.35542426357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.17050565890,
+                    22.47692353342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.24095832772,
+                    22.29534363378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.23408113988,
+                    22.48503200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.23830744907,
+                    22.33416744300
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.16190497669,
+                    22.42942831371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14905281349,
+                    22.38029392071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15807802331,
+                    22.35494000786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "衛奕信徑 Wilson Trail"
             },
             "geometry": {

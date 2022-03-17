@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Folder><name>Wilson_Kowloon</name>
+<Folder><name>Wilson_Trail_Kowloon</name>
+  <Placemark>
+	<name>Section10-end</name>
+      <Point><coordinates>114.20720764724,22.51420953058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section5</name>
+      <Point><coordinates>114.19953631779,22.35542426357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section9</name>
+      <Point><coordinates>114.1705056589,22.47692353342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section3</name>
+      <Point><coordinates>114.24095832772,22.29534363378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section10</name>
+      <Point><coordinates>114.23408113988,22.485032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section4</name>
+      <Point><coordinates>114.23830744907,22.334167443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section8</name>
+      <Point><coordinates>114.16190497669,22.42942831371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section7</name>
+      <Point><coordinates>114.14905281349,22.38029392071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Section6</name>
+      <Point><coordinates>114.15807802331,22.35494000786</coordinates></Point>
+  </Placemark>
   <Placemark>
 	<name>衛奕信徑 Wilson Trail</name>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
