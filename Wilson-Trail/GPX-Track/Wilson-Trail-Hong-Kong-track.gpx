@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.284635" lon="114.21506">
+    <ele>49</ele>
+    <name>Section2-end</name>
+  </wpt>
+  <wpt lat="22.223588" lon="114.208451">
+    <ele>91</ele>
+    <name>Section1</name>
+  </wpt>
+  <wpt lat="22.257832" lon="114.197474">
+    <ele>271</ele>
+    <name>Section2</name>
+  </wpt>
   <trk>
     <name>衛奕信徑 Wilson Trail HK</name>
     <trkseg>

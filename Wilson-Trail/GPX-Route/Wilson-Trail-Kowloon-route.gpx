@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.51421" lon="114.207208">
+    <ele>24</ele>
+    <name>Section10-end</name>
+  </wpt>
+  <wpt lat="22.355424" lon="114.199536">
+    <ele>295</ele>
+    <name>Section5</name>
+  </wpt>
+  <wpt lat="22.476924" lon="114.170506">
+    <ele>410</ele>
+    <name>Section9</name>
+  </wpt>
+  <wpt lat="22.295344" lon="114.240958">
+    <ele>31</ele>
+    <name>Section3</name>
+  </wpt>
+  <wpt lat="22.485032" lon="114.234081">
+    <ele>456</ele>
+    <name>Section10</name>
+  </wpt>
+  <wpt lat="22.334167" lon="114.238307">
+    <ele>181</ele>
+    <name>Section4</name>
+  </wpt>
+  <wpt lat="22.429428" lon="114.161905">
+    <ele>88</ele>
+    <name>Section8</name>
+  </wpt>
+  <wpt lat="22.380294" lon="114.149053">
+    <ele>202</ele>
+    <name>Section7</name>
+  </wpt>
+  <wpt lat="22.35494" lon="114.158078">
+    <ele>136</ele>
+    <name>Section6</name>
+  </wpt>
   <rte>
     <name>衛奕信徑 Wilson Trail</name>
     <rtept lat="22.308009" lon="114.234328">
