@@ -43,9 +43,12 @@
     <name> 田夫仔營地 Tin Fu Tsai Camp Site</name>
   </wpt>
   <wpt lat="22.34883" lon="114.15259">
-    <name> Water Filling</name>
+    <name> Kowloon Reservoir Water Filling</name>
   </wpt>
   <wpt lat="22.42171" lon="114.33247">
-    <name> Water Station</name>
+    <name> Pak Tam Au Water Station</name>
+  </wpt>
+  <wpt lat="22.377862" lon="114.144362">
+    <name> Shing Mun Reservoir Drinking Water</name>
   </wpt>
 </gpx>

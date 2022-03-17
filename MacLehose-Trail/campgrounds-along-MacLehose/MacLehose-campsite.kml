@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Folder><name>campsite</name>
+<Folder><name>MacLehose_campsite</name>
   <Placemark>
 	<name>曝罟灣營地 Po Kwu Wan Camp Site</name>
       <Point><coordinates>114.3269,22.38222</coordinates></Point>
@@ -59,12 +59,16 @@
       <Point><coordinates>114.066018,22.390104</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Water Filling</name>
+	<name>Kowloon Reservoir Water Filling</name>
       <Point><coordinates>114.15259,22.34883</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Water Station</name>
+	<name>Pak Tam Au Water Station</name>
       <Point><coordinates>114.33247,22.42171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shing Mun Reservoir Drinking Water</name>
+      <Point><coordinates>114.144362,22.377862</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
