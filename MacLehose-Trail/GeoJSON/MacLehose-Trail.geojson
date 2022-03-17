@@ -6,6 +6,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Section10-end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.97783199140,
+                    22.39506548208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.06584995614,
+                    22.39047815002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "麥理浩徑 MacLehose Trail"
             },
             "geometry": {
@@ -32043,6 +32069,123 @@
                         113.97789140000,
                         22.39512530000
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27829260128,
+                    22.40294411791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.22091803497,
+                    22.36128068181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15821788343,
+                    22.41183326260
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.10529172024,
+                    22.40656256087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.33186122454,
+                    22.42069923294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37347934110,
+                    22.37124227949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14428149570,
+                    22.37809448022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.32376291038,
+                    22.40000464122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15284581043,
+                    22.34890628985
                 ]
             }
         }
