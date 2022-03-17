@@ -6,6 +6,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Section8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.86732100000,
+                    22.20729816751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.87037211380,
+                    22.23672093147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "鳳凰徑 Lantau Trail"
             },
             "geometry": {
@@ -16519,6 +16545,149 @@
                         114.00182800000,
                         22.26501070000
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section12-end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.00187107738,
+                    22.26501516733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.98829992146,
+                    22.25621288886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.95730727116,
+                    22.23989800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.94309269081,
+                    22.24813727959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.91232365307,
+                    22.25266727520
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.89171586012,
+                    22.24470727612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.97668472884,
+                    22.24327565596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.86357798834,
+                    22.24798165474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.89087211657,
+                    22.22835641438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.91783548099,
+                    22.22146510549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.00173348710,
+                    22.26519928897
                 ]
             }
         }
