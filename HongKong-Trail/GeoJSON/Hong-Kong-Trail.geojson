@@ -6,6 +6,58 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Section4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.16612831779,
+                    22.26479868781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14952776686,
+                    22.27125148212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14259609325,
+                    22.26632751780
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.19219950430,
+                    22.25721861774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "港島徑 Hong Kong Trail"
             },
             "geometry": {
@@ -18523,6 +18575,71 @@
                         114.24561400000,
                         22.24471500000
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section8-end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.24560731779,
+                    22.24469541542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.22117351901,
+                    22.24782941266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.23973848099,
+                    22.22708627565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.21335988343,
+                    22.26686978633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Section3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15357865890,
+                    22.25564320863
                 ]
             }
         }
