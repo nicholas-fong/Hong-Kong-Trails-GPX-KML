@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="22.207298" lon="113.867321">
+    <ele>95</ele>
+    <name>Section8</name>
+  </wpt>
+  <wpt lat="22.236721" lon="113.870372">
+    <ele>206</ele>
+    <name>Section6</name>
+  </wpt>
+  <wpt lat="22.265015" lon="114.001871">
+    <ele>6</ele>
+    <name>Section12-end</name>
+  </wpt>
+  <wpt lat="22.256213" lon="113.9883">
+    <ele>136</ele>
+    <name>Section2</name>
+  </wpt>
+  <wpt lat="22.239898" lon="113.957307">
+    <ele>123</ele>
+    <name>Section11</name>
+  </wpt>
+  <wpt lat="22.248137" lon="113.943093">
+    <ele>325</ele>
+    <name>Section3</name>
+  </wpt>
+  <wpt lat="22.252667" lon="113.912324">
+    <ele>446</ele>
+    <name>Section4</name>
+  </wpt>
+  <wpt lat="22.244707" lon="113.891716">
+    <ele>256</ele>
+    <name>Section5</name>
+  </wpt>
+  <wpt lat="22.243276" lon="113.976685">
+    <ele>8</ele>
+    <name>Section12</name>
+  </wpt>
+  <wpt lat="22.247982" lon="113.863578">
+    <ele>4</ele>
+    <name>Section7</name>
+  </wpt>
+  <wpt lat="22.228356" lon="113.890872">
+    <ele>72</ele>
+    <name>Section9</name>
+  </wpt>
+  <wpt lat="22.221465" lon="113.917835">
+    <ele>9</ele>
+    <name>Section10</name>
+  </wpt>
+  <wpt lat="22.265199" lon="114.001733">
+    <ele>7</ele>
+    <name>Section1</name>
+  </wpt>
   <rte>
     <name>鳳凰徑 Lantau Trail</name>
     <rtept lat="22.265222" lon="114.001701">
