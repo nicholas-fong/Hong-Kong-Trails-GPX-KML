@@ -4,403 +4,403 @@
 <Folder><name>Hong_Kong_Trail_Markers</name>
   <Placemark>
 	<name>H001</name>
-      <Point><coordinates>114.149029,22.27439</coordinates></Point>
+      <Point><coordinates>114.149029,22.27439,412</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H002</name>
-      <Point><coordinates>114.148133,22.27721</coordinates></Point>
+      <Point><coordinates>114.148133,22.27721,443</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H003</name>
-      <Point><coordinates>114.144655,22.277758</coordinates></Point>
+      <Point><coordinates>114.144655,22.277758,434</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H004</name>
-      <Point><coordinates>114.141893,22.276054</coordinates></Point>
+      <Point><coordinates>114.141893,22.276054,401</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H005</name>
-      <Point><coordinates>114.138611,22.27438</coordinates></Point>
+      <Point><coordinates>114.138611,22.27438,379</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H006</name>
-      <Point><coordinates>114.13668,22.2733</coordinates></Point>
+      <Point><coordinates>114.13668,22.2733,367</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H007</name>
-      <Point><coordinates>114.132947,22.273431</coordinates></Point>
+      <Point><coordinates>114.132947,22.273431,310</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H008</name>
-      <Point><coordinates>114.13361,22.27007</coordinates></Point>
+      <Point><coordinates>114.13361,22.27007,252</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H009</name>
-      <Point><coordinates>114.134933,22.267254</coordinates></Point>
+      <Point><coordinates>114.134933,22.267254,231</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H010</name>
-      <Point><coordinates>114.137654,22.267244</coordinates></Point>
+      <Point><coordinates>114.137654,22.267244,215</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H011</name>
-      <Point><coordinates>114.139935,22.268001</coordinates></Point>
+      <Point><coordinates>114.139935,22.268001,227</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H012</name>
-      <Point><coordinates>114.142955,22.268584</coordinates></Point>
+      <Point><coordinates>114.142955,22.268584,245</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H013</name>
-      <Point><coordinates>114.146301,22.268898</coordinates></Point>
+      <Point><coordinates>114.146301,22.268898,271</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H014</name>
-      <Point><coordinates>114.14402,22.26736</coordinates></Point>
+      <Point><coordinates>114.14402,22.26736,242</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H015</name>
-      <Point><coordinates>114.141516,22.265341</coordinates></Point>
+      <Point><coordinates>114.141516,22.265341,227</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H016</name>
-      <Point><coordinates>114.141734,22.26373</coordinates></Point>
+      <Point><coordinates>114.141734,22.26373,267</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H017</name>
-      <Point><coordinates>114.14076,22.26077</coordinates></Point>
+      <Point><coordinates>114.14076,22.26077,231</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H018</name>
-      <Point><coordinates>114.14286,22.25991</coordinates></Point>
+      <Point><coordinates>114.14286,22.25991,242</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H019</name>
-      <Point><coordinates>114.14518,22.2594</coordinates></Point>
+      <Point><coordinates>114.14518,22.2594,276</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H020</name>
-      <Point><coordinates>114.147158,22.256774</coordinates></Point>
+      <Point><coordinates>114.147158,22.256774,254</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H021</name>
-      <Point><coordinates>114.14583,22.25437</coordinates></Point>
+      <Point><coordinates>114.14583,22.25437,243</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H022</name>
-      <Point><coordinates>114.144489,22.252265</coordinates></Point>
+      <Point><coordinates>114.144489,22.252265,183</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H023</name>
-      <Point><coordinates>114.14686,22.25214</coordinates></Point>
+      <Point><coordinates>114.14686,22.25214,133</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H024</name>
-      <Point><coordinates>114.15016,22.2536</coordinates></Point>
+      <Point><coordinates>114.15016,22.2536,113</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H025</name>
-      <Point><coordinates>114.15323,22.25566</coordinates></Point>
+      <Point><coordinates>114.15323,22.25566,115</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H026</name>
-      <Point><coordinates>114.155272,22.258651</coordinates></Point>
+      <Point><coordinates>114.155272,22.258651,166</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H027</name>
-      <Point><coordinates>114.154398,22.260634</coordinates></Point>
+      <Point><coordinates>114.154398,22.260634,212</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H028</name>
-      <Point><coordinates>114.15679,22.260555</coordinates></Point>
+      <Point><coordinates>114.15679,22.260555,205</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H029</name>
-      <Point><coordinates>114.15709,22.25882</coordinates></Point>
+      <Point><coordinates>114.15709,22.25882,191</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H030</name>
-      <Point><coordinates>114.1551,22.25586</coordinates></Point>
+      <Point><coordinates>114.1551,22.25586,179</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H031</name>
-      <Point><coordinates>114.155283,22.253941</coordinates></Point>
+      <Point><coordinates>114.155283,22.253941,177</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H032</name>
-      <Point><coordinates>114.156709,22.25471</coordinates></Point>
+      <Point><coordinates>114.156709,22.25471,175</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H033</name>
-      <Point><coordinates>114.159697,22.257999</coordinates></Point>
+      <Point><coordinates>114.159697,22.257999,181</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H034</name>
-      <Point><coordinates>114.159555,22.262739</coordinates></Point>
+      <Point><coordinates>114.159555,22.262739,214</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H035</name>
-      <Point><coordinates>114.161667,22.262277</coordinates></Point>
+      <Point><coordinates>114.161667,22.262277,198</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H036</name>
-      <Point><coordinates>114.16219,22.260551</coordinates></Point>
+      <Point><coordinates>114.16219,22.260551,185</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H037</name>
-      <Point><coordinates>114.16527,22.26337</coordinates></Point>
+      <Point><coordinates>114.16527,22.26337,188</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H038</name>
-      <Point><coordinates>114.167115,22.264799</coordinates></Point>
+      <Point><coordinates>114.167115,22.264799,167</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H039</name>
-      <Point><coordinates>114.168266,22.264939</coordinates></Point>
+      <Point><coordinates>114.168266,22.264939,185</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H040</name>
-      <Point><coordinates>114.167289,22.261597</coordinates></Point>
+      <Point><coordinates>114.167289,22.261597,168</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H041</name>
-      <Point><coordinates>114.168053,22.258517</coordinates></Point>
+      <Point><coordinates>114.168053,22.258517,149</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H042</name>
-      <Point><coordinates>114.16971,22.25661</coordinates></Point>
+      <Point><coordinates>114.16971,22.25661,131</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H043</name>
-      <Point><coordinates>114.17254,22.25429</coordinates></Point>
+      <Point><coordinates>114.17254,22.25429,127</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H044</name>
-      <Point><coordinates>114.17177,22.25704</coordinates></Point>
+      <Point><coordinates>114.17177,22.25704,172</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H045</name>
-      <Point><coordinates>114.17404,22.25794</coordinates></Point>
+      <Point><coordinates>114.17404,22.25794,263</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H046</name>
-      <Point><coordinates>114.176764,22.259403</coordinates></Point>
+      <Point><coordinates>114.176764,22.259403,273</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H047</name>
-      <Point><coordinates>114.18027,22.25983</coordinates></Point>
+      <Point><coordinates>114.18027,22.25983,283</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H048</name>
-      <Point><coordinates>114.1831,22.25856</coordinates></Point>
+      <Point><coordinates>114.1831,22.25856,299</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H049</name>
-      <Point><coordinates>114.186857,22.257116</coordinates></Point>
+      <Point><coordinates>114.186857,22.257116,269</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H050</name>
-      <Point><coordinates>114.191146,22.258383</coordinates></Point>
+      <Point><coordinates>114.191146,22.258383,219</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H051</name>
-      <Point><coordinates>114.195408,22.257435</coordinates></Point>
+      <Point><coordinates>114.195408,22.257435,219</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H052</name>
-      <Point><coordinates>114.198015,22.258195</coordinates></Point>
+      <Point><coordinates>114.198015,22.258195,286</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H053;W009</name>
-      <Point><coordinates>114.197814,22.260531</coordinates></Point>
+      <Point><coordinates>114.197814,22.260531,310</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H054;W010</name>
-      <Point><coordinates>114.197675,22.264967</coordinates></Point>
+      <Point><coordinates>114.197675,22.264967,398</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H055;W011</name>
-      <Point><coordinates>114.199878,22.2664</coordinates></Point>
+      <Point><coordinates>114.199878,22.2664,386</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H056;W012</name>
-      <Point><coordinates>114.203102,22.26752</coordinates></Point>
+      <Point><coordinates>114.203102,22.26752,296</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H057;W013</name>
-      <Point><coordinates>114.207432,22.269175</coordinates></Point>
+      <Point><coordinates>114.207432,22.269175,392</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H058</name>
-      <Point><coordinates>114.210273,22.268349</coordinates></Point>
+      <Point><coordinates>114.210273,22.268349,409</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H059</name>
-      <Point><coordinates>114.212998,22.266996</coordinates></Point>
+      <Point><coordinates>114.212998,22.266996,334</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H060</name>
-      <Point><coordinates>114.214092,22.265857</coordinates></Point>
+      <Point><coordinates>114.214092,22.265857,288</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H061</name>
-      <Point><coordinates>114.214182,22.263099</coordinates></Point>
+      <Point><coordinates>114.214182,22.263099,240</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H062</name>
-      <Point><coordinates>114.213517,22.260445</coordinates></Point>
+      <Point><coordinates>114.213517,22.260445,198</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H063</name>
-      <Point><coordinates>114.21191,22.258594</coordinates></Point>
+      <Point><coordinates>114.21191,22.258594,158</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H064</name>
-      <Point><coordinates>114.211849,22.256358</coordinates></Point>
+      <Point><coordinates>114.211849,22.256358,150</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H065</name>
-      <Point><coordinates>114.214349,22.253346</coordinates></Point>
+      <Point><coordinates>114.214349,22.253346,119</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H066</name>
-      <Point><coordinates>114.215534,22.251625</coordinates></Point>
+      <Point><coordinates>114.215534,22.251625,98</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H067</name>
-      <Point><coordinates>114.218289,22.251708</coordinates></Point>
+      <Point><coordinates>114.218289,22.251708,80</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H068</name>
-      <Point><coordinates>114.221316,22.248052</coordinates></Point>
+      <Point><coordinates>114.221316,22.248052,60</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H069</name>
-      <Point><coordinates>114.223766,22.247995</coordinates></Point>
+      <Point><coordinates>114.223766,22.247995,39</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H070</name>
-      <Point><coordinates>114.226174,22.250684</coordinates></Point>
+      <Point><coordinates>114.226174,22.250684,50</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H071</name>
-      <Point><coordinates>114.227667,22.25146</coordinates></Point>
+      <Point><coordinates>114.227667,22.25146,50</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H072</name>
-      <Point><coordinates>114.226569,22.249281</coordinates></Point>
+      <Point><coordinates>114.226569,22.249281,47</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H073</name>
-      <Point><coordinates>114.226363,22.246413</coordinates></Point>
+      <Point><coordinates>114.226363,22.246413,49</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H074</name>
-      <Point><coordinates>114.228573,22.242686</coordinates></Point>
+      <Point><coordinates>114.228573,22.242686,55</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H075</name>
-      <Point><coordinates>114.232034,22.24138</coordinates></Point>
+      <Point><coordinates>114.232034,22.24138,39</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H076</name>
-      <Point><coordinates>114.232134,22.243549</coordinates></Point>
+      <Point><coordinates>114.232134,22.243549,47</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H077</name>
-      <Point><coordinates>114.231024,22.246907</coordinates></Point>
+      <Point><coordinates>114.231024,22.246907,61</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H078</name>
-      <Point><coordinates>114.233097,22.244276</coordinates></Point>
+      <Point><coordinates>114.233097,22.244276,45</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H079</name>
-      <Point><coordinates>114.236711,22.242036</coordinates></Point>
+      <Point><coordinates>114.236711,22.242036,56</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H080</name>
-      <Point><coordinates>114.236613,22.239202</coordinates></Point>
+      <Point><coordinates>114.236613,22.239202,59</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H081</name>
-      <Point><coordinates>114.236067,22.236178</coordinates></Point>
+      <Point><coordinates>114.236067,22.236178,59</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H082</name>
-      <Point><coordinates>114.237154,22.233024</coordinates></Point>
+      <Point><coordinates>114.237154,22.233024,54</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H083</name>
-      <Point><coordinates>114.236981,22.22856</coordinates></Point>
+      <Point><coordinates>114.236981,22.22856,42</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H084</name>
-      <Point><coordinates>114.238696,22.227112</coordinates></Point>
+      <Point><coordinates>114.238696,22.227112,90</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H085</name>
-      <Point><coordinates>114.241115,22.229332</coordinates></Point>
+      <Point><coordinates>114.241115,22.229332,170</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H086</name>
-      <Point><coordinates>114.243928,22.230572</coordinates></Point>
+      <Point><coordinates>114.243928,22.230572,215</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H087</name>
-      <Point><coordinates>114.24374,22.234618</coordinates></Point>
+      <Point><coordinates>114.24374,22.234618,258</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H088</name>
-      <Point><coordinates>114.242656,22.237848</coordinates></Point>
+      <Point><coordinates>114.242656,22.237848,244</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H089</name>
-      <Point><coordinates>114.241391,22.241568</coordinates></Point>
+      <Point><coordinates>114.241391,22.241568,252</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H090</name>
-      <Point><coordinates>114.23891,22.243868</coordinates></Point>
+      <Point><coordinates>114.23891,22.243868,212</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H091</name>
-      <Point><coordinates>114.236347,22.24662</coordinates></Point>
+      <Point><coordinates>114.236347,22.24662,211</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H092</name>
-      <Point><coordinates>114.23491,22.248178</coordinates></Point>
+      <Point><coordinates>114.23491,22.248178,213</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H093</name>
-      <Point><coordinates>114.231543,22.251459</coordinates></Point>
+      <Point><coordinates>114.231543,22.251459,213</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H094</name>
-      <Point><coordinates>114.232941,22.255018</coordinates></Point>
+      <Point><coordinates>114.232941,22.255018,197</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H095</name>
-      <Point><coordinates>114.236606,22.257259</coordinates></Point>
+      <Point><coordinates>114.236606,22.257259,194</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H096</name>
-      <Point><coordinates>114.239691,22.256256</coordinates></Point>
+      <Point><coordinates>114.239691,22.256256,176</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H097</name>
-      <Point><coordinates>114.241756,22.254965</coordinates></Point>
+      <Point><coordinates>114.241756,22.254965,159</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H098</name>
-      <Point><coordinates>114.245581,22.251818</coordinates></Point>
+      <Point><coordinates>114.245581,22.251818,103</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H099</name>
-      <Point><coordinates>114.245533,22.249772</coordinates></Point>
+      <Point><coordinates>114.245533,22.249772,66</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>H100</name>
-      <Point><coordinates>114.245058,22.24744</coordinates></Point>
+      <Point><coordinates>114.245058,22.24744,17</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
