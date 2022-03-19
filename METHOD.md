@@ -27,6 +27,7 @@ Invoke [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) and open abov
 To combine trail sections: (e.g. to combine Wilson Section 2 and Wilson Section 3)
 <br>-invoke JOSM and open Wilson2.geojson and Wilson3.geojson
 <br>-merge the layers into one layer: Ctrl+M
+<br>-if 2 paths are separated, connect them as one. Select the tail node of one path and the head node of the second path: (M)
 <br>-select the 2 trails and combine: Tools...Combine Way (C)
 <br>-save as a `GeoJSON` file. e.g. Wilson-2-3.geojson
 
