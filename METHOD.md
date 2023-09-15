@@ -36,4 +36,6 @@ To generate `GPX tracks`,`GPX routes` from `GeoJSON`:
 
 The elevation profile of the `GPX tracks` and `GPX routes` is added using codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
 
-After that, the elevation of the `GeoJSON` is added using codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF). KML is also created from the `GeoJSON` using codes from [KML-to-GeoJSON](https://github.com/nicholas-fong/KML-to-geoJSON).
+The elevation of the `GeoJSON` is added using codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF). 
+
+KML is created from `GeoJSON` using codes from [KML-to-GeoJSON](https://github.com/nicholas-fong/KML-to-geoJSON).
