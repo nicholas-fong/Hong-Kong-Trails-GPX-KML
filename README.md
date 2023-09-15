@@ -6,7 +6,7 @@ Using [Overpass](https://www.overpass-turbo.eu) query wizard to extract trails a
 
 To visualize: download a GeoJSON file and drop it in [geojson.io](https://geojson.io).`GPX track` and `GPX route` are both hosted in this repository because some devices/hiking apps work better with `GPX track` and others work better with `GPX route`. `KML` version of the trails are hosted in this repository for visualization with `Google Earth` or `Google My Maps`, or import to `MAPS.ME` or similar mobile apps that prefer to use KML. 
 
-Mobile phone version of Google Maps, despite its popularity in vehicle navigatioin and "offline mode", IMHO it is not designed to be used with GPX/KML for hiking navigation (perhaps in the future). Examples of good offline hiking apps are `Locus Map` (Andorid) and `Komoot`, `MAPS.ME` (Andorid and iOS). If you use `Garmin` handheld GPS, simply import the GPX hiking trails to your handheld.
+Mobile phone version of Google Maps, despite its popularity in vehicle navigatioin and "offline mode" capability, IMHO it is not designed to be used with GPX/KML for hiking navigation (perhaps in the future). Examples of good offline hiking apps are `Locus Map` (Andorid) and `Komoot`, `MAPS.ME` (Andorid and iOS), `Avenza Maps`. If you use `Garmin` handheld GPS, simply import the GPX hiking trails to your handheld.
 
 Due to the length and difficulties of the full trails, hiking trails are divided into sections/stages. Consult [Wikipedia](https://en.wikipedia.org/wiki/List_of_hiking_trails_in_Hong_Kong) or [Enjoy Hiking website](https://www.hiking.gov.hk) for trail heads and how to get there. Some segments of the trails have no transportation, no shelters, no food, no water and no mobile phone coverage.
 
