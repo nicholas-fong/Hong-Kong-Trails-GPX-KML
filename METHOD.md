@@ -32,8 +32,8 @@ To combine trail sections: (e.g. to combine Wilson Section 2 and Wilson Section 
 <br>-save as a `GeoJSON` file. e.g. Wilson-2-3.geojson
 
 To generate `GPX tracks`,`GPX routes` from `GeoJSON`:
-<br>-use codes from [geoJSON-gpx-convert](https://github.com/nicholas-fong/geoJSON-gpx-convert). 
+<br>-use codes from [GeoJSON-to-gpx](https://github.com/nicholas-fong/GeoJSON-to-gpx). 
 
-The elevation profile of the `GPX tracks` and `GPX routes` is added using codes from [gpx-add-SRTM](https://github.com/nicholas-fong/gpx-add-SRTM) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
+The elevation profile of the `GPX tracks` and `GPX routes` is added using codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF) and [NASA Digital Elevation Model](https://earthdata.nasa.gov/learn/articles/new-aster-gdem)
 
-After that, the elevation of the `GeoJSON` is added from `GPX track` above using codes from [geoJSON-gpx-converter](https://github.com/nicholas-fong/geoJSON-gpx-convert). KML is also created from the `GeoJSON` using codes from [geoJSON-gpx-converter](https://github.com/nicholas-fong/geoJSON-gpx-convert).
+After that, the elevation of the `GeoJSON` is added using codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF). KML is also created from the `GeoJSON` using codes from [KML-to-GeoJSON](https://github.com/nicholas-fong/KML-to-geoJSON).
