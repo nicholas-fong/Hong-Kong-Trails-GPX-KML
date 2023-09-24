@@ -1,4 +1,5 @@
-# Hong-Kong-Hiking-Trails-GPX-KML-GeoJSON
+**Hong-Kong-Hiking-Trails-GPX-KML-GeoJSON**
+
 For hiking enthusiasts savvy with mobile devices and offline hiking apps. This repository hosts a complete set of unofficial high quality GPS coordinates (GeoJSON, gpx, KML) for the 4 major hiking trails in Hong Kong SAR (MacLehose Trail 麥理浩徑 98 km, Hong Kong Trail 港島徑 45 km, Wilson Trail 衛奕信徑 76 km and Lantau Trail 鳳凰徑 67 km for a total of 286 km with over 24,000 route points). Use these files at your own risks.
 
 Methodology used to generate these tracks:<br>
