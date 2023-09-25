@@ -15,4 +15,4 @@ Due to the length of trails, Hong Kong hiking trails are divided into sections. 
 
 The Office of the Communications Authority `OFCA` 通訊事務管理局辦公室 of Hong Kong SAR publishes [PDF trail maps](https://www.ofca.gov.hk/en/consumer_focus/guide/safety/country_parks/coverage_survey/digital_map/index.html) with estimated mobile phone signal coverage. 
 
-Carrying a fully charged battery power bank can prevent the situation of depleted phone battery after a long day of hiking.
+
