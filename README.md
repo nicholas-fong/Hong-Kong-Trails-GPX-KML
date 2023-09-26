@@ -5,10 +5,10 @@ For hiking enthusiasts savvy with mobile devices and offline hiking apps. This r
 Methodology used to generate these tracks:<br>
 Use [Overpass](https://www.overpass-turbo.eu) query wizard to extract trails and export as GeoJSON file to JOSM - [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) to manually correct data inconsistencies and other errors. The cleaned up data is then converted to `GPX tracks`, `GPX routes` and `KML` using Python codes from [GeoJSON-to-gpx](https://github.com/nicholas-fong/geoJSON-to-gpx) repository. The elevation of the trails is derived from NASA's Advanced Spaceborne Thermal Emission and Reflection Radiometer `ASTER` Global Digital Elevation Model `GDEM` V3 GeoTIFF geospatial metadata, using Python codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF) repository.
 
-### To visualize these trails:<br> 
+### To visualize these trails:
 Download the GPX or KML files and drop it in [geojson.io](https://geojson.io). `GPX track` and `GPX route` are for use primarily with mobile devices. `KML` are for use primarily with `Google Earth` and `Google My Maps` and some mobile devices. 
 
-For [Google My Maps](https://mymaps.google.com/), login first, "Create A New Map", import a KML file. The map is stored in your Google Drive. 
+For [Google My Maps](https://mymaps.google.com/), sign in first, "Create A New Map", import a KML file. The map is stored in your Google Drive. 
 
 For `Garmin` handheld GPS, e.g. eTrex, transfer the GPX file from desktop to handheld. 
 
