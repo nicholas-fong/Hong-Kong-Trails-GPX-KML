@@ -1,54 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <wpt lat="22.38222" lon="114.3269">
+    <ele>76.0</ele>
     <name> 曝罟灣營地 Po Kwu Wan Camp Site</name>
   </wpt>
   <wpt lat="22.377594" lon="114.332529">
+    <ele>10.0</ele>
     <name> 元五墳營地 Yuen Ng Fan Campsite</name>
   </wpt>
   <wpt lat="22.35877" lon="114.36479">
+    <ele>49.0</ele>
     <name> 白臘營地 Pak Lap Camp Site</name>
   </wpt>
   <wpt lat="22.37333" lon="114.37528">
+    <ele>11.0</ele>
     <name> 浪茄灣營地 Long Ke Wan Camps Site</name>
   </wpt>
   <wpt lat="22.39963" lon="114.36928">
+    <ele>8.0</ele>
     <name> 西灣營地 Sai Wan Camp Site</name>
   </wpt>
   <wpt lat="22.410056" lon="114.374826">
+    <ele>9.0</ele>
     <name> 鹹田灣營地 Ham Tin Wan Camp Site</name>
   </wpt>
   <wpt lat="22.42329" lon="114.33607">
+    <ele>147.0</ele>
     <name> 北潭凹營地 Pak Tam Au Camp Site</name>
   </wpt>
   <wpt lat="22.42816" lon="114.30898">
+    <ele>303.0</ele>
     <name> 嶂上營地 Chenung Sheung Campsite</name>
   </wpt>
   <wpt lat="22.40278" lon="114.27528">
+    <ele>148.0</ele>
     <name> 水浪窩營地 Shui Long Wo Camp Site</name>
   </wpt>
   <wpt lat="22.392425" lon="114.250989">
+    <ele>365.0</ele>
     <name> 昂平營地 Ngong Ping Camp Site</name>
   </wpt>
   <wpt lat="22.411278" lon="114.157797">
+    <ele>401.0</ele>
     <name> 鉛礦坳營地 Lead Mine Pass Camp Site</name>
   </wpt>
   <wpt lat="22.405097" lon="114.105205">
+    <ele>479.0</ele>
     <name> 扶輪公園營地 Rotary Park Camp Site</name>
   </wpt>
   <wpt lat="22.406934" lon="114.103872">
+    <ele>478.0</ele>
     <name> 荃錦營地 Twisk Camp Site</name>
   </wpt>
   <wpt lat="22.390104" lon="114.066018">
+    <ele>226.0</ele>
     <name> 田夫仔營地 Tin Fu Tsai Camp Site</name>
   </wpt>
   <wpt lat="22.34883" lon="114.15259">
+    <ele>158.0</ele>
     <name> Kowloon Reservoir Water Filling</name>
   </wpt>
   <wpt lat="22.42171" lon="114.33247">
+    <ele>132.0</ele>
     <name> Pak Tam Au Water Station</name>
   </wpt>
   <wpt lat="22.377862" lon="114.144362">
+    <ele>198.0</ele>
     <name> Shing Mun Reservoir Drinking Water</name>
   </wpt>
 </gpx>

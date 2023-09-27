@@ -1,78 +1,113 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-<Document id="root_doc">
-<Folder><name>Lantau_campsites</name>
-  <Placemark>
-	<name>昂坪營地Ngong Ping Camp Site</name>
-      <Point><coordinates>113.914275,22.255105</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>萬丈布營地 Man Cheung Po Campsite</name>
-      <Point><coordinates>113.867214,22.23066</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Camp site 1</name>
-      <Point><coordinates>113.844237,22.208862</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>牙鷹角營地 Nga Ying Kok Campsite</name>
-      <Point><coordinates>113.852962,22.238682</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>石欖洲營地 Shek Lam Chau Campsite</name>
-      <Point><coordinates>113.903106,22.213873</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>大浪灣營地 Tai Long Wan Camp Site</name>
-      <Point><coordinates>113.877839,22.214151</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>狗嶺涌營地 Kau Ling Chung Camp Site</name>
-      <Point><coordinates>113.863731,22.20457</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>石壁營地 Shek Pik Campsite</name>
-      <Point><coordinates>113.889726,22.228931</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Camp site 2</name>
-      <Point><coordinates>113.864429,22.204596</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>爛頭營 Lantau Mountain Camp</name>
-      <Point><coordinates>113.958436,22.257829</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>籮箕灣營地 Lo Kei Wan Campsite</name>
-      <Point><coordinates>113.915001,22.211381</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>南山營地 Nam Shan Campsite</name>
-      <Point><coordinates>113.98625,22.254126</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>貝澳營地 Pui O Campsite</name>
-      <Point><coordinates>113.977644,22.239606</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>十塱營地 Shap Long Campsite</name>
-      <Point><coordinates>113.988228,22.237571</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>白富田營地 Pak Fu Tin Campsite</name>
-      <Point><coordinates>113.993864,22.251973</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Drinking Water 1</name>
-      <Point><coordinates>113.941135,22.23057</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Drinking Water 2</name>
-      <Point><coordinates>113.954723,22.234466</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Drinking Water 3</name>
-      <Point><coordinates>113.864477,22.205232</coordinates></Point>
-  </Placemark>
-</Folder>
-</Document></kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name> 昂坪營地Ngong Ping Camp Site</name>
+            <Point id="2">
+                <coordinates>113.914275,22.255105,446.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name> 萬丈布營地 Man Cheung Po Campsite</name>
+            <Point id="4">
+                <coordinates>113.867214,22.23066,285.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name> Camp site 1</name>
+            <Point id="6">
+                <coordinates>113.844237,22.208862,60.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name> 牙鷹角營地 Nga Ying Kok Campsite</name>
+            <Point id="8">
+                <coordinates>113.852962,22.238682,23.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name> 石欖洲營地 Shek Lam Chau Campsite</name>
+            <Point id="10">
+                <coordinates>113.903106,22.213873,16.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name> 大浪灣營地 Tai Long Wan Camp Site</name>
+            <Point id="12">
+                <coordinates>113.877839,22.214151,8.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name> 狗嶺涌營地 Kau Ling Chung Camp Site</name>
+            <Point id="14">
+                <coordinates>113.863731,22.20457,10.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name> 石壁營地 Shek Pik Campsite</name>
+            <Point id="16">
+                <coordinates>113.889726,22.228931,77.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name> Camp site 2</name>
+            <Point id="18">
+                <coordinates>113.864429,22.204596,7.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name> 爛頭營 Lantau Mountain Camp</name>
+            <Point id="20">
+                <coordinates>113.958436,22.257829,749.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name> 籮箕灣營地 Lo Kei Wan Campsite</name>
+            <Point id="22">
+                <coordinates>113.915001,22.211381,5.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name> 南山營地 Nam Shan Campsite</name>
+            <Point id="24">
+                <coordinates>113.98625,22.254126,84.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name> 貝澳營地 Pui O Campsite</name>
+            <Point id="26">
+                <coordinates>113.977644,22.239606,7.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name> 十塱營地 Shap Long Campsite</name>
+            <Point id="28">
+                <coordinates>113.988228,22.237571,56.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name> 白富田營地 Pak Fu Tin Campsite</name>
+            <Point id="30">
+                <coordinates>113.993864,22.251973,147.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name> Drinking Water 1</name>
+            <Point id="32">
+                <coordinates>113.941135,22.23057,7.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name> Drinking Water 2</name>
+            <Point id="34">
+                <coordinates>113.954723,22.234466,5.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name> Drinking Water 3</name>
+            <Point id="36">
+                <coordinates>113.864477,22.205232,7.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
