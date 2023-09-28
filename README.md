@@ -18,7 +18,7 @@ For [Google My Maps](https://mymaps.google.com/), sign in first, "Create A New M
 
 There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `Avenza Maps`, Garmin Explore, etc. 
 
-`Garmin` handheld GPS, e.g. eTrex SE, using a USB cable, copy GPX waypoint, GPX route to the device. GPX route is called a "course" in Garmin lingo.
+`Garmin` handheld GPS, e.g. eTrex SE, using a USB cable, copy GPX waypoint, route or track to the device.
 
 ### `Government websites:`
 
