@@ -16,9 +16,9 @@ For [Google My Maps](https://mymaps.google.com/), sign in first, "Create A New M
 
 ### How to use these tracks:
 
-There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `Avenza Maps`, Garmin Explore, etc. 
+There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `Avenza Maps`, `Garmin Explore`, etc. 
 
-`Garmin` handheld GPS, e.g. eTrex SE, using a USB cable, copy GPX waypoint, route or track to the device.
+For `Garmin` handheld GPS device such as `eTrex SE`, use a USB cable to copy GPX files to the device.
 
 ### `Government websites:`
 
