@@ -8,7 +8,7 @@ To clean `hiking.gpx`:
 ```
 $python3 gpx2gpx.py hiking
 ```
-The above code cannot clean up gpx file that is corrupted in this manner:<br>Imagine a route with points A..B..C..D..E but the gpx file route points are in a different order, e.g. A..C..D..E..B, the code cannot fix such logical error.
+The above code cannot clean up gpx file that is corrupted in this manner:<br>Imagine a route with points A..B..C..D..E but the gpx file route points are in a different order, e.g. A..C..D..E..B, the above code cannot fix such logical error.
 
 Also included are two GPX conversion utilities:<br> 
 `rte2trk.py` and `trk2rte.py`.
