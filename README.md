@@ -4,6 +4,8 @@ For hiking enthusiasts savvy with mobile devices and offline hiking apps. This r
 
 Due to the length of trails, Hong Kong hiking trails are divided into sections. Consult [Wikipedia](https://en.wikipedia.org/wiki/List_of_hiking_trails_in_Hong_Kong) or [Enjoy Hiking website](https://www.hiking.gov.hk) for various trail heads and how to get there.
 
+Alltrails.com also has many trails in GPX and KML formats. 
+
 ### Methodology used to generate these tracks:
 
 Use [Overpass](https://www.overpass-turbo.eu) query wizard to extract trails and export as GeoJSON file to JOSM - [Java OpenStreetMap Editor](https://josm.openstreetmap.de/) to manually correct data inconsistencies and other errors. The cleaned up data is then converted to `GPX tracks`, `GPX routes` and `KML` using Python codes from [GeoJSON-to-gpx](https://github.com/nicholas-fong/geoJSON-to-gpx) repository. The elevation of the trails is derived from NASA's Advanced Spaceborne Thermal Emission and Reflection Radiometer `ASTER` Global Digital Elevation Model `GDEM` V3 GeoTIFF geospatial metadata, using Python codes from [SRTM-GeoTIFF](https://github.com/nicholas-fong/SRTM-GeoTIFF) repository. For more detailed steps, see [this page.](https://github.com/nicholas-fong/Hong-Kong-Trails-GPX-GeoJSON-KML/blob/main/METHOD.md)
