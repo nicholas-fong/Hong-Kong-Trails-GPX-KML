@@ -22,7 +22,7 @@ There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `
 
 For `Garmin` handheld GPS device such as `eTrex SE`, use a USB cable to copy GPX files to the device.
 
-Some apps/devices work better with GPX track, some work better with GPX routes. Choose one that works.
+Some apps/devices work better with GPX track, some work better with GPX routes. Experiment with one that works.
 
 To merge tracks and waypoints into one file, use [geojson.io](https://geojson.io) to load the tracks and waypoints and save the combined features as a GeoJSON file, then convert to GPX using code from [GeoJSON-to-gpx](https://github.com/nicholas-fong/geoJSON-to-gpx) or convert to KML using code from [KML-to-GeoJSON](https://github.com/nicholas-fong/KML-to-GeoJSON)
 
