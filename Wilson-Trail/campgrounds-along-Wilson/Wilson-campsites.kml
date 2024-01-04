@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="1">
-        <Placemark id="3">
-            <name> 鶴藪營地 Hok Tau Campsite</name>
-            <Point id="2">
-                <coordinates>114.177942,22.498739,48.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5">
-            <name> 鉛礦坳營地 Lead Mine Pass Campsite</name>
-            <Point id="4">
-                <coordinates>114.157797,22.411278,401.0</coordinates>
-            </Point>
-        </Placemark>
-    </Document>
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name> 鶴藪營地 Hok Tau Campsite</name>
+    <Point>
+      <coordinates>114.177942,22.498739,48</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> 鉛礦坳營地 Lead Mine Pass Campsite</name>
+    <Point>
+      <coordinates>114.157797,22.411278,401</coordinates>
+    </Point>
+  </Placemark>
 </kml>
