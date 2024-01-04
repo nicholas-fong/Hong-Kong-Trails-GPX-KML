@@ -3,103 +3,103 @@
   <Placemark>
     <name> 曝罟灣營地 Po Kwu Wan Camp Site</name>
     <Point>
-      <coordinates>114.3269,22.38222</coordinates>
+      <coordinates>114.3269,22.38222,76</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 元五墳營地 Yuen Ng Fan Campsite</name>
     <Point>
-      <coordinates>114.332529,22.377594</coordinates>
+      <coordinates>114.332529,22.377594,10</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 白臘營地 Pak Lap Camp Site</name>
     <Point>
-      <coordinates>114.36479,22.35877</coordinates>
+      <coordinates>114.36479,22.35877,49</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 浪茄灣營地 Long Ke Wan Camps Site</name>
     <Point>
-      <coordinates>114.37528,22.37333</coordinates>
+      <coordinates>114.37528,22.37333,11</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 西灣營地 Sai Wan Camp Site</name>
     <Point>
-      <coordinates>114.36928,22.39963</coordinates>
+      <coordinates>114.36928,22.39963,8</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 鹹田灣營地 Ham Tin Wan Camp Site</name>
     <Point>
-      <coordinates>114.374826,22.410056</coordinates>
+      <coordinates>114.374826,22.410056,9</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 北潭凹營地 Pak Tam Au Camp Site</name>
     <Point>
-      <coordinates>114.33607,22.42329</coordinates>
+      <coordinates>114.33607,22.42329,147</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 嶂上營地 Chenung Sheung Campsite</name>
     <Point>
-      <coordinates>114.30898,22.42816</coordinates>
+      <coordinates>114.30898,22.42816,303</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 水浪窩營地 Shui Long Wo Camp Site</name>
     <Point>
-      <coordinates>114.27528,22.40278</coordinates>
+      <coordinates>114.27528,22.40278,148</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 昂平營地 Ngong Ping Camp Site</name>
     <Point>
-      <coordinates>114.250989,22.392425</coordinates>
+      <coordinates>114.250989,22.392425,365</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 鉛礦坳營地 Lead Mine Pass Camp Site</name>
     <Point>
-      <coordinates>114.157797,22.411278</coordinates>
+      <coordinates>114.157797,22.411278,401</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 扶輪公園營地 Rotary Park Camp Site</name>
     <Point>
-      <coordinates>114.105205,22.405097</coordinates>
+      <coordinates>114.105205,22.405097,479</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 荃錦營地 Twisk Camp Site</name>
     <Point>
-      <coordinates>114.103872,22.406934</coordinates>
+      <coordinates>114.103872,22.406934,478</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> 田夫仔營地 Tin Fu Tsai Camp Site</name>
     <Point>
-      <coordinates>114.066018,22.390104</coordinates>
+      <coordinates>114.066018,22.390104,226</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> Kowloon Reservoir Water Filling</name>
     <Point>
-      <coordinates>114.15259,22.34883</coordinates>
+      <coordinates>114.15259,22.34883,158</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> Pak Tam Au Water Station</name>
     <Point>
-      <coordinates>114.33247,22.42171</coordinates>
+      <coordinates>114.33247,22.42171,132</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> Shing Mun Reservoir Drinking Water</name>
     <Point>
-      <coordinates>114.144362,22.377862</coordinates>
+      <coordinates>114.144362,22.377862,198</coordinates>
     </Point>
   </Placemark>
 </kml>
