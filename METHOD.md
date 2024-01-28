@@ -1,8 +1,8 @@
 # Method used to generate high quality hiking GPX tracks<br>
 On a section by section basis:
 <br>(MacLehose: 10 sections; Wilson: 10 sections; Hong Kong: 8 sections; Lantau: 12 sections)
-<br>use Google Map to search and zoom to the area of interest. 
-<br>open `Overpass` and zoom to the same area.
+<br>use Google Map to search and zoom in to the area of interest. 
+<br>open [Overpass](https://www.overpass-turbo.eu) and zoom to approximately the same area.
 <br>run [Overpass](https://www.overpass-turbo.eu) query wizard to extract trail, e.g. in the query wizard search box enter: name ~ "MacLehose Trail Section 3"
 <br>-other smaller trails are called "Fitness Trail", "Country Trail", "Tree Walk", "Family Walk", "Nature Trail"
 <br>-note the quoted text in the search box is case sensitive
