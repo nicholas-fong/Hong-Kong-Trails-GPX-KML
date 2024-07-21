@@ -18,14 +18,14 @@ For [Google My Maps](https://mymaps.google.com/), sign in first, "Create A New M
 
 ### How to use these tracks:
 
-There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `Avenza Maps`, `Garmin Explore`, `GPX Viewer 2 for iOS`, etc. The last 3 apps are free and ads free.
+There are many outdoor/hiking mobile phone apps such as `Locus Map`, `Komoot`, `Avenza Maps`, `Garmin Explore`, `GPX Viewer (iOS)`, etc. The last 3 apps are free and ads free.
 
 
 For `Garmin` handheld GPS device such as `eTrex SE`, use a USB cable to copy GPX files of interests to the device.
 
 Some apps prefer GPX tracks, some prefer GPX routes. Experiment to find which flavour (track or route) works best.
 
-To merge tracks and waypoints into one file, use [geojson.io](https://geojson.io) to load the tracks and waypoints and copy/save the combined features as a GeoJSON file, then convert to GPX using code from [GeoJSON-to-gpx](https://github.com/nicholas-fong/geoJSON-to-gpx) or convert to KML using code from [KML-to-GeoJSON](https://github.com/nicholas-fong/KML-to-GeoJSON)
+To merge GPX tracks and waypoints into one file, use [geojson.io](https://geojson.io) to load the GPX tracks and waypoints and save the combined features as a GeoJSON file, then convert to GPX using code from [GeoJSON-to-gpx](https://github.com/nicholas-fong/geoJSON-to-gpx).
 
 ### `Government websites:`
 
