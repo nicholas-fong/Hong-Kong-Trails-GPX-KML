@@ -52,7 +52,7 @@ for track in org.tracks:
                 q = gpxpy.gpx.GPXRoutePoint(lat,lon)
             r.points.append(q) 
 
-print (new.to_xml())
+#print (new.to_xml())
 
 with open(sys.argv[1]+'.gpx', 'w') as file:
     file.write( new.to_xml() )

@@ -3,7 +3,6 @@ import gpxpy
 
 with open( sys.argv[1]+'.gpx' ) as infile:
     data = gpxpy.parse(infile)
-infile.close()  #for peace of mind.
 
 gpx = gpxpy.gpx.GPX()
 

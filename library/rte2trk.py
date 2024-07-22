@@ -56,7 +56,7 @@ for r in org.routes:
             q = gpxpy.gpx.GPXTrackPoint(lat,lon)  
         s.points.append(q)
 
-print (new.to_xml())
+#print (new.to_xml())
 
 with open(sys.argv[1]+'.gpx', 'w') as file:
     file.write( new.to_xml() )
