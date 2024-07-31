@@ -49,7 +49,7 @@ for track in data.tracks:
                 np.time = p.time
             s.points.append(np) 
 
-print (gpx.to_xml())
+#print (gpx.to_xml())
 
 with open(sys.argv[1]+'.gpx', 'w') as file:
     file.write( gpx.to_xml() )
