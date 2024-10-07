@@ -2,7 +2,7 @@
 
 Ocassionally some gpx files are "corrupted" and they fail to work in handheld devices.
 
-gpx2gpx.py can clean up the gpx file so that it confirms to GPX XML Schema. [GPX 1.1 Schema Documentation](https://www.topografix.com/GPX/1/1/).
+gpx2gpx.py can sometimes clean up the corrupted gpx file (within reasons) so that it conforms to GPX XML Schema. [GPX 1.1 Schema Documentation](https://www.topografix.com/GPX/1/1/).
 
 To clean `hiking.gpx`:
 ```
